@@ -8,7 +8,7 @@ uid: 6f1dfa42-bfa7-425a-b4e4-c5adec5e525d
 ---
 ## Instructor Interview
 
-Below, Professor Rafael Jaramillo describes various aspects of how he taught *3.020 Thermodynamics of Materials* in 2017 and *Introduction to Statistical Physics* in 2021.
+Below, Professor Rafael Jaramillo describes various aspects of how he taught *3.020 Thermodynamics of Materials* in 2021.
 
 **OCW:** Who took this course in Spring 2021, and how much background did they have in the topic of the course?
 
@@ -57,11 +57,13 @@ One of the following courses should be taken as a corequisite:
 
 ### Requirements Satisfied
 
- 
+- [GIR CI-M](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement)
+- [GIR REST](http://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#restrequirementtext)
+- [Materials Science and Engineering degree requirement](http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/)
 
 ### Offered
 
-T/K
+Every spring semester
 
 ## Assessment
 

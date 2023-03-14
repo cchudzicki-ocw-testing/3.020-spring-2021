@@ -65,9 +65,19 @@ One of the following courses should be taken as a corequisite:
 
 Every spring semester
 
-## Assessment
+## Assessment and Grading
 
-T/K
+65% of the grade is based on the lecture component of the course:
+
+- 50% Problem sets: 10 problem sets, with equal weighting
+- 50% exams: 3 exams, of equal length and weighting (including the final)
+
+35% of the grade is based on laboratory & communication components of the course:
+
+- 20% Lab reports: short virtual student-recorded videos summarizing key lab results, to be submitted  
+    for each of the three lab experiments
+- 35% Oral presentation
+- 45% Written review article
 
 ## Student Information
 
@@ -89,12 +99,16 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 ### Lectures
 
-- Met twice per week for 1.5 hours per session; 12 sessions total; mandatory attendance.
+- Met twice per week for 1.5 hours per session; 26 sessions total; mandatory attendance.
 
 ### Recitations
 
 - Met once per week for 1 hour per session; mandatory attendance.
 - In recitations, the teaching assistant fielded questions from students and helped them work through sample problems.
+
+### Labs
+
+- Met once per week for 2 hours per session.
 
 ### Out of Class
 

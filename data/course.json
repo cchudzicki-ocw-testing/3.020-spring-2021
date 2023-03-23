@@ -12,8 +12,10 @@
   ],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "3020-thermodynamics-of-materials"
+    "content": [
+      "6a140abb-a6a8-4492-a6d2-0f0f3f21835d"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "",

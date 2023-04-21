@@ -4,6 +4,7 @@ description: Lecture boards from each class in PDF and LaTeX (within ZIP) format
 draft: false
 resources:
   content:
+  - 69da5daa-9cfb-4f1b-8931-dd37bea21a84
   - 3589e0b7-6713-4532-bd64-4c9c6e8678b2
   - d166d09a-e9b0-4312-a98a-0ad94ef3eded
   - ca23ccb5-4a2e-42f3-a47a-0b9330c4a871

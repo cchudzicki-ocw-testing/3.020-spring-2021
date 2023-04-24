@@ -1,6 +1,7 @@
 ---
 content_type: resource-list
-description: Lecture boards from each class in PDF and LaTeX (within ZIP) format
+description: This section contains the lecture boards from each class in PDF and LaTeX
+  (ZIP files) format.
 draft: false
 resources:
   content:

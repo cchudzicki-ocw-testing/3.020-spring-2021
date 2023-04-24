@@ -3,3 +3,7 @@ leftnav:
   name: Syllabus
   url: /pages/syllabus
   weight: 10
+- identifier: 06b59c24-4a10-442d-92dc-01e67b747c7d
+  name: Lecture Notes
+  url: /lists/lecture-notes
+  weight: 20

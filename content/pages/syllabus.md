@@ -62,6 +62,6 @@ David Chandler, *Introduction to Modern Statistical Mechanics*, Oxford, 1987. IS
 
 ### Communication-Intensive Activities
 
-- 3.020 satisfies the C-IM requirement through two communication-focused activities associated with the lab component. These activities will consist of (i) a virtual oral presentation on a technical topic related to the course subject material, aimed at a general audience, and (ii) a written review of an active research field, aimed at a technical audience. Details of these activities will be provided. Students will also participate in communication-focused instruction sessions during scheduled lab and recitation times.
+- 3.020 satisfies the [C-IM requirement](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects) through two communication-focused activities associated with the lab component. These activities will consist of (i) a virtual oral presentation on a technical topic related to the course subject material, aimed at a general audience, and (ii) a written review of an active research field, aimed at a technical audience. Details of these activities will be provided. Students will also participate in communication-focused instruction sessions during scheduled lab and recitation times.
 
 ### Evaluation

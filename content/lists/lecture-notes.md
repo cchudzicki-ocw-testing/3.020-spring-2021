@@ -64,6 +64,7 @@ resources:
   - 71d1ad8d-485b-4a18-8072-c855fdd6f1d3
   - b8058a2a-5065-4496-8d18-a6821450405a
   - 0a7251b8-6676-4172-a3c7-967c5b1aaa52
+  - 15d2138d-7c11-43e1-8b57-cdefb802b3a7
   - e8be81ba-7b18-452c-aeea-95dd16684018
   - a71a0b31-c2e1-4da3-9687-8b106ae7cbdb
   website: 3020-thermodynamics-of-materials

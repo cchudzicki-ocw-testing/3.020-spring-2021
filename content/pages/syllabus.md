@@ -29,17 +29,9 @@ Robert DeHoff, *Thermodynamics in Materials Science*, 2nd edition, Taylor & Fran
 
 Additional, required supplementary readings will be from the following textbooks:
 
-Kenneth Denbigh, *The Principles of Chemical Equilibrium*, 4th edition, Cambridge, 1981. ISBN: 978-0521281508.
-
-- Chapter 4: "Equilibria of Reactions Involving Gases"
-
-William D Callister, Jr., and David G. Rethwisch, *Materials Science and Engineering*, 8th edition, Wiley, 2009. ISBN: 9780470419977.
-
-- Chapter 9: "Phase Diagrams"
-
-David Chandler, *Introduction to Modern Statistical Mechanics*, Oxford, 1987. ISBN: 978-0195042771.
-
-- Chapter 3: "Statistical Mechanics"
+- Chapter 4: "Equilibria of Reactions Involving Gases." Kenneth Denbigh, *The Principles of Chemical Equilibrium*, 4th edition, Cambridge, 1981. ISBN: 978-0521281508.
+- Chapter 9: "Phase Diagrams." William D Callister, Jr., and David G. Rethwisch, *Materials Science and Engineering*, 8th edition, Wiley, 2009. ISBN: 9780470419977.
+- Chapter 3: "Statistical Mechanics." David Chandler, *Introduction to Modern Statistical Mechanics*, Oxford, 1987. ISBN: 978-0195042771.
 
 ### Lectures
 
@@ -81,14 +73,15 @@ The *laboratory & CI-M grades* will be determined by:
 
 ### Problem Sets
 
-- **Problem sets will be due at 10 am Eastern** on the due day
+- Problem sets will be due at 10 am Eastern on the due day
 - We encourage you to work in groups on the problem sets. However, you should write up your own problem-set solutions, and acknowledge the names of the students with whom you worked in your submission
 
 ### Exams
 
 - Exams are open-book; you have all resources at your disposal
-- You may **not** discuss the exam with other students on the day of the exam
+- You may not discuss the exam with other students on the day of the exam
 - Exams are written for a 60-minute time period; the total time period allowed will be 75 minutes, to allow 15 minutes to upload your work on the website
     - Exams in 3.020 are intended to be challenging
-    - **We** ***strongly*** **encourage you to work strategically, and to stop work after 60 minutes, to avoid running short of time to upload**
-- You can take the exam at any time within a 24-hour window on the day of the exam; *i.e.*, the window to take the test begins at 12:00:01 am Eastern and ends at 11:59:59 pm Eastern on the test date ▪ Once you download the exam, your 75-minute period begins
+    - We *strongly* encourage you to work strategically, and to stop work after 60 minutes, to avoid running short of time to upload
+- You can take the exam at any time within a 24-hour window on the day of the exam; *i.e.*, the window to take the test begins at 12:00:01 am Eastern and ends at 11:59:59 pm Eastern on the test date
+- Once you download the exam, your 75-minute period begins

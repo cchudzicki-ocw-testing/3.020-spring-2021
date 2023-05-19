@@ -3,7 +3,11 @@ leftnav:
   name: Syllabus
   url: /pages/syllabus
   weight: 10
-- identifier: 06b59c24-4a10-442d-92dc-01e67b747c7d
-  name: Lecture Files for Download
-  url: /lists/lecture-notes
+- identifier: 035cbabe-684f-4ae4-b662-1b832d177d01
+  name: Lecture Notes and LaTeX
+  url: /pages/lecture-notes-and-latex
   weight: 20
+- identifier: 06b59c24-4a10-442d-92dc-01e67b747c7d
+  name: Lecture Files Resource List
+  url: /lists/lecture-notes
+  weight: 30

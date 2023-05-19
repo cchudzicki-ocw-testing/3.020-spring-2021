@@ -15,27 +15,27 @@ Solutions Boards
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "bdbf8cc8-b26c-4963-bde9-ebdcf216af59" "Recitation 1 Problems (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Recitation 1 Solutions (PDF)
+{{% resource_link "a5f5976d-bc6e-4413-b3e4-669630f73de2" "Recitation 1 Solutions (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "e7fba565-0689-43ea-8297-a3564d187a64" "Recitation 2 Problems (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Recitation 2 Solutions (PDF)
+{{% resource_link "3e221e18-d681-46e3-8605-78218d3b764d" "Recitation 2 Solutions (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "741664e5-5548-4e9c-ab21-5ccba550660f" "Recitation 3 Problems (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Recitation 3 Solutions (PDF)
+{{% resource_link "b9484a26-bf94-4b69-97a7-83f272a54895" "Recitation 3 Solutions (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "9e24f1cf-4d34-4478-9e99-d11a6b399762" "Recitation 4 Problems (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Recitation 4 Solutions (PDF)
+*Recitation 4 solutions not available*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "faa6c750-736a-4777-b55f-e78447b1b07b" "Recitation 5 Problems (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Recitation 5 Solutions (PDF)
+{{% resource_link "29a57dd3-792c-47da-bad0-c80de8bf6a1e" "Recitation 5 Solutions (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "38bfb8aa-f0a5-45f2-b9fd-786abcd0e9a1" "Recitation 6 Problems (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Recitation 6 Solutions (PDF)
+{{% resource_link "a0df1b39-c98d-430c-b041-22e8333a3072" "Recitation 6 Solutions (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "90ad13ea-6431-4db0-899c-8ac8f784c90f" "Recitation 7 Problems (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}

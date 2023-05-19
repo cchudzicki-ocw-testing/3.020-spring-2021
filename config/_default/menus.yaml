@@ -8,7 +8,7 @@ leftnav:
   url: /pages/instructor-insights
   weight: 20
 - identifier: 035cbabe-684f-4ae4-b662-1b832d177d01
-  name: Lecture Notes and LaTeX
+  name: Lecture Notes
   url: /pages/lecture-notes-and-latex
   weight: 30
 - identifier: 06b59c24-4a10-442d-92dc-01e67b747c7d

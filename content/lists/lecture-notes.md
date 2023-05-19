@@ -68,6 +68,6 @@ resources:
   - e8be81ba-7b18-452c-aeea-95dd16684018
   - a71a0b31-c2e1-4da3-9687-8b106ae7cbdb
   website: 3020-thermodynamics-of-materials
-title: Lecture Notes
+title: Lecture Files for Download
 uid: 06b59c24-4a10-442d-92dc-01e67b747c7d
 ---

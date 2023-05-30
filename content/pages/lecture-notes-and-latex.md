@@ -6,6 +6,8 @@ draft: false
 title: Lecture Notes and LaTeX
 uid: 035cbabe-684f-4ae4-b662-1b832d177d01
 ---
+The lecture notes include the 
+
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Lecture Notes: PDF Format
 {{< thclose >}}{{< thopen >}}
@@ -13,11 +15,7 @@ Lecture Notes: LaTeX Format
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "69da5daa-9cfb-4f1b-8931-dd37bea21a84" "Lecture 1: Introduction to Thermodynamics (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-
-{{% resource_link "24aac6b7-1777-436e-91ce-b092e41f28f0" "Lecture 1 Notes: Introduction to Thermodynamics (ZIP)" %}}
-
-This file contains: 1 .tex file, 4 .png files.
-
+{{% resource_link "24aac6b7-1777-436e-91ce-b092e41f28f0" "Lecture 1 Notes: Introduction to Thermodynamics (ZIP)" %}} (This file contains: 1 .tex file, 4 .png files.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "3589e0b7-6713-4532-bd64-4c9c6e8678b2" "Lecture 2: Scope and Use of Thermodynamics (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}

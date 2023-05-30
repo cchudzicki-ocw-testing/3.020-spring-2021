@@ -39,7 +39,7 @@ Lecture Notes: LaTeX Format
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "197a90d6-2df5-4d4d-ac0e-9dbbf07b8a89" "Lecture 7: Ideal Gas Processes (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Lecture 7: Ideal Gas Processes (ZIP) This file contains: 1 .tex file, 3 .png files.
+{{% resource_link "e1b2066e-93b7-4c4c-9478-456932cd7c6f" "Lecture 7: Ideal Gas Processes (ZIP)" %}} This file contains: 1 .tex file, 3 .png files.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "197a90d6-2df5-4d4d-ac0e-9dbbf07b8a89" "Lecture 8: Mathematical Implications of Equilibrium & Spontaneous Processes (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}

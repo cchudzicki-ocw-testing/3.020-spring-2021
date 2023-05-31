@@ -15,9 +15,20 @@ Labs: 2 sessions / week, 2 hours / session
 
 ### Prerequisites/Corequisites
 
-Chemistry ([GIR](https://registrar.mit.edu/registration-academics/academic-requirements/general-institute-requirements)) is a prerequisite; this requirement can be met by mastering one of the following courses available on OCW: 3.091SC, 3.091, 5.111SC, 5.111, and 5.112.
+Chemistry ([GIR](https://registrar.mit.edu/registration-academics/academic-requirements/general-institute-requirements)) is a prerequisite. This requirement can be met by mastering one of the following courses:
 
-[*18.03 Differential Equations*](https://ocw.mit.edu/search/?q=18.03) or *18.032* is a *corequisite*, meaning students can take *3.020* and *18.03* (or *18.032*) at the same time. 
+- [*3.091 Introduction to Solid-State Chemistry*](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/)  or [3.091SC](https://draft.ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/)\*
+- [*5.111SC Principles of Chemical Science*](https://draft.ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)
+- [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/) 
+    
+    or [5.111SC](https://draft.ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)\*
+- [*5.112 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005/)
+
+3.091SC, 3.091, 5.111SC, 5.111, and 5.112.
+
+[*18.03 Differential Equations*](https://ocw.mit.edu/search/?q=18.03) or *18.032* is a *corequisite*, meaning students can take *3.020* and *18.03* (or *18.032*) at the same time.
+
+- "SC" denotes an [*OCW Scholar*](ocw.mit.edu/course-lists/scholar-courses/) version of a course. OCW Scholar courses contain complete multi-media resources designed for independent learners, and are organized in logical sequence.
 
 ### Course Description
 

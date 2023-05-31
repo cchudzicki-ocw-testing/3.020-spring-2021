@@ -2,7 +2,7 @@
 content_type: page
 description: This page presents information on how 3.020 Thermodynamics of Materials
   was taught.
-draft: true
+draft: false
 title: Instructor Insights
 uid: 6f1dfa42-bfa7-425a-b4e4-c5adec5e525d
 ---

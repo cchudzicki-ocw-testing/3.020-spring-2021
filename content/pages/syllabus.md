@@ -15,7 +15,9 @@ Labs: 2 sessions / week, 2 hours / session
 
 ### Prerequisites/Corequisites
 
-Chemistry (GIR) is a prerequisite; [*18.03 Differential Equations*](https://ocw.mit.edu/search/?q=18.03) or *18.032* is a *corequisite*, meaning students can take *3.020* and *18.03* (or *18.032*) at the same time. 
+Chemistry ([GIR](https://registrar.mit.edu/registration-academics/academic-requirements/general-institute-requirements)) is a prerequisite; this requirement can be met by mastering one of the following courses available on OCW: 3.091SC, 3.091, 5.111SC, 5.111, and 5.112.
+
+[*18.03 Differential Equations*](https://ocw.mit.edu/search/?q=18.03) or *18.032* is a *corequisite*, meaning students can take *3.020* and *18.03* (or *18.032*) at the same time. 
 
 ### Course Description
 
@@ -23,7 +25,7 @@ This course introduces the competition between energetics and disorder that unde
 
 ### Texts for the Course
 
-There is one main, required textbook:
+There is one required textbook:
 
 Robert DeHoff, *Thermodynamics in Materials Science*, 2nd edition, Taylor & Francis, 2006. ISBN: 978-0849340659.
 
@@ -41,7 +43,7 @@ Additional, required supplementary readings will be from the following textbooks
 
 ### Recitations
 
-- Recitations will be held live over Zoom in two groups, on Tuesday at 1p and at 3p
+- Recitations will be held live over Zoom in two sessions
 - Attendance is encouraged, but it is not required and will not be graded
 - Recitations will not be recorded
 - Students will be assigned to recitation at the start of the semester; if you need to change your recitation time, please first confirm with the instructors
@@ -49,25 +51,25 @@ Additional, required supplementary readings will be from the following textbooks
 ### Laboratories
 
 - Laboratories will be held in both in-person and live virtual formats.
-- Laboratories are scheduled for Tuesday and Thursday at 10a – 12p. Students will participate in three two-hour lab experiments during the term, with mandatory attendance (either virtual or in-person). Students will be individually assigned to specific lab groups and corresponding meeting times. Students who need to change their lab group may consult with the lab instructor.
+- Students will participate in three two-hour lab experiments during the term, with mandatory attendance (either virtual or in-person). Students will be individually assigned to specific lab groups and corresponding meeting times. Students who need to change their lab group may consult with the lab instructor.
 - Virtual laboratory sections will be recorded and made available for registered students.
 
 ### Communication-Intensive Activities
 
-3.020 satisfies MIT's [C-IM requirement](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects) through two communication-focused activities associated with the lab component. These activities will consist of (i) a virtual oral presentation on a technical topic related to the course subject material, aimed at a general audience, and (ii) a written review of an active research field, aimed at a technical audience. Details of these activities will be provided. Students will also participate in communication-focused instruction sessions during scheduled lab and recitation times.
+3.020 satisfies MIT's [CI-M requirement](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects) through two communication-focused activities associated with the lab component. These activities will consist of (i) a virtual oral presentation on a technical topic related to the course subject material, aimed at a general audience, and (ii) a written review of an active research field, aimed at a technical audience. Details of these activities will be provided. Students will also participate in communication-focused instruction sessions during scheduled lab and recitation times.
 
 ### Evaluation
 
 The contributions to the final grade will be: 65% from lecture, 35% from laboratory & CI-M components
 
-The *lecture* grade will be determined by:
+The *lecture* grade will be determined by the following:
 
 - 50% problem sets: 10 problem sets, with equal weighting
 - 50% exams: 3 exams, of equal length and weighting (including the final)
 
 The *laboratory & CI-M grades* will be determined by:
 
-- 20% lab reports: Short virtual student-recorded videos summarizing key lab results will be submitted for each of the three lab experiments.
+- 20% lab reports: Short virtual student-recorded videos summarizing key lab results will be submitted for each lab experiment.
 - 35% Oral presentation
 - 45% Written review article
 
@@ -85,3 +87,5 @@ The *laboratory & CI-M grades* will be determined by:
     - We *strongly* encourage you to work strategically, and to stop work after 60 minutes, to avoid running short of time to upload
 - You can take the exam at any time within a 24-hour window on the day of the exam; *i.e.*, the window to take the test begins at 12:00:01 am Eastern and ends at 11:59:59 pm Eastern on the test date
 - Once you download the exam, your 75-minute period begins
+
+*Please be aware that the information shared here was specifically meant for the residential MIT students enrolled in the course, and is included to provide insight into how the course was conducted during the pandemic. Please note that OCW is not a distance education program, and we do not offer instructor interactions, grading, or certification of completion.*

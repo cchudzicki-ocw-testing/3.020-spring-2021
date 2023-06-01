@@ -60,7 +60,7 @@ Solutions Boards
 - {{% resource_link "ca8e4afd-19d1-4a0e-a348-bce701677803" "Recitation 8 Problems (PDF)" %}}
 - {{% resource_link "598db0a8-528d-4bba-a9de-ad484789c5f3" "Recitation 9 Problems (PDF)" %}}
 
-## Communications Assignments
+## Communications (CI-M) Assignments
 
 ### Literature Review Assignment Guidelines
 

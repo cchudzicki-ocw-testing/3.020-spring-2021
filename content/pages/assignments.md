@@ -156,7 +156,7 @@ Sustainable materials selection
 Materials for solar energy capture and conversion
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-In order to approach and present on your chosen topic, you will need to perform independent research. Ideally, the research process for your presentation will become useful background as you focus your research for the literature review.
+In order to approach and present your chosen topic, you will need to perform independent research. Ideally, the research process for your presentation will become useful background as you focus your research for the literature review.
 
 #### Preparing your Presentation
 
@@ -167,3 +167,4 @@ In a rhetorically strategic and coherent structure, your presentation should inc
 3. Methods: How do methods help scientists accomplish goals? How did the field develop these methods?
 4. Results and Open Questions: What is the current state of the art? What are the open questions in the field?
 5. Conclusion: What main ideas from the talk do you want to highlight and leave your audience remembering?
+6. Figures + References: How can visuals and graphics clarify, enhance or support each of these goals? Remember to cite all references.

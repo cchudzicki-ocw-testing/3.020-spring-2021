@@ -14,13 +14,13 @@ DeHoff, Robert. *Thermodynamics in Materials Science*. CRC Press, 2006. ISBN: 97
 
 ### Additional Readings
 
-Denbigh, Kenneth G. "Principles of Chemical Equilibrium." Chapter 4 in *Chemical Equilibrium*, 4th ed., 99-132. Cambridge University Press, 1981. ISBN: 9780521281506.
+Denbigh, Kenneth. Chapter 4 in *The Principles of Chemical Equilibrium*, 4th ed. Cambridge University Press, 1981. ISBN: 9780521281508.
 
-Callister, William D. "Phase Diagrams." Chapter 9 in *Materials Science and Engineering: An Introduction*, 10th ed., 299-326. John Wiley & Sons, 2018. ISBN: 9781119405492.
+Callister, William D. "Phase Diagrams." Chapter 9 in *Materials Science and Engineering: An Introduction*, 8th ed., John Wiley & Sons, 2018. ISBN: 9780470419977.
 
-Chandler, David. "The Boltzmann Distribution." Chapter 3 in *Introduction to Modern Statistical Mechanics,* 2nd ed., 70-100. Oxford University Press, 1987. ISBN: 9780195042771.
+Chandler, David. "Statistical Mechanics." Chapter 3 in *Introduction to Modern Statistical Mechanics,* 2nd ed., Oxford University Press, 1987. ISBN: 9780195042771.
 
-Clerc, F. J., and David J. Cleary. "Spinodal Decomposition as an Interesting Example of Pattern Formation." *Physical Review E* 51, no. 2 (1995): 1318-1326.
+Clerc, Daryl G., and David A. Cleary. "Spinodal Decomposition as an Interesting Example of the Application of Several Thermodynamic Principles." *Journal of Chemical Education* 72, no. 2 (1995): 112-115.
 
 ## Discussion Class Sessions
 
@@ -28,9 +28,9 @@ Clerc, F. J., and David J. Cleary. "Spinodal Decomposition as an Interesting Exa
 
 #### Required Reading
 
-Kaiser, David. "The search for clean cash." In Worlds Without End: The Many Lives of the Multiverse, 123-146. Oxford University Press, 2011. ISBN: 9780199764080.
+Kaiser, David. "[The search for clean cash](https://www.nature.com/articles/472030a)." *Nature* 472 (2011) 30-31.
 
-Kaiser, David. "History Shut up and calculate!" *Studies in History and Philosophy of Modern Physics* 45 (2014): 74-84.
+Kaiser, David. "[History: Shut up and calculate!](https://www.nature.com/articles/505153a)" *Nature* 505 (2014): 153-155.
 
 #### At least one of the two following story collections
 
@@ -38,12 +38,12 @@ Kaiser, David. "History Shut up and calculate!" *Studies in History and Philosop
 
 - "[The Great Trigonometrical Survey](https://en.wikipedia.org/w/index.php?title=Great_Trigonometrical_Survey&oldid=1014665563)." Wikipedia.
 - "Surveying Empires: The Great Trigonometrical Survey of India." ArcGIS StoryMaps. 
-- McCarthy, Tom. "[The Mapmaker’s Conundrum](https://www.newyorker.com/books/page-turner/the-mapmakers-conundrum)." The New Yorker, June 27, 2014.
-- Owen, David. "How a Young Activist Is Helping Pope Francis Battle Climate Change." The New Yorker, May 2021. 
+- McCarthy, Tom. "[The Mapmaker’s Conundrum](https://www.newyorker.com/books/page-turner/the-mapmakers-conundrum)." *The New Yorker*, June 27, 2014.
+- Owen, David. "[How a Young Activist Is Helping Pope Francis Battle Climate Change](https://www.newyorker.com/magazine/2021/02/08/how-a-young-activist-is-helping-pope-francis-battle-climate-change)." *The New Yorker,* February 8, 2021. 
 
 **Stories of Chemistry**
 
-- King, Gregory. "Fritz Haber’s Experiments in Life and Death." Nature 484, no. 7392 (2012): 24-26. 
+- King, Gilbert. "[Fritz Haber’s Experiments in Life and Death](https://www.smithsonianmag.com/history/fritz-habers-experiments-in-life-and-death-114161301/)." *Smithsonian Magazine,* June 6, 2012. 
 - "[The Nobel Prize in Chemistry 1918](https://www.nobelprize.org/prizes/chemistry/1918/summary/)." NobelPrize.org.
 - RadioLab. "[The Bad Show](https://radiolab.org/podcast/bad-show)" (Haber segment). RadioLab Podcast.
 
@@ -51,11 +51,11 @@ Kaiser, David. "History Shut up and calculate!" *Studies in History and Philosop
 
 #### Required Reading
 
-Rothman, Joshua. "[How Does Science Really Work](https://www.newyorker.com/magazine/2020/10/05/how-does-science-really-work)?" The New Yorker, September 28, 2020. 
+Rothman, Joshua. "[How Does Science Really Work](https://www.newyorker.com/magazine/2020/10/05/how-does-science-really-work)?" *The New Yorker*, September 28, 2020. 
 
 #### Required: At least one of the following stories of individual careers
 
-- Fabbiano, Giuseppina. "The woman who explained the stars." *Nature*, December 2020. 
+- Fabbiano, Giuseppina. "[The woman who explained the stars](https://doi.org/10.1038/d41586-020-00509-3)." *Nature* 578 (2020) 509-510. 
 - Famous Scientists. "[Subrahmanyan Chandrasekhar](https://www.famousscientists.org/subrahmanyan-chandrasekhar/)." FamousScientists.org. 
-- Hubbard, Ruth. "[Dark Lady of DNA: Book Review](https://www.jstor.org/stable/10.1086/345333)." *Signs*, Vol. 28, No. 3, Gender and Science: New Issues (Spring 2003), pp. 973-975.
-- Mielczarek, Eugenie. "Rosalind Franklin: The Dark Lady of DNA." *Canadian Medical Association Journal* 168, no. 7 (2003): 892.
+- Hubbard, Ruth. "[Dark Lady of DNA: Book Review](https://www.jstor.org/stable/10.1086/345333)." *Signs: Journal of Women in Culture and Society* 28, no. 3 (2003): 973-975.
+- Mielczarek, Eugenie. "[Rosalind Franklin: The Dark Lady of DNA](https://doi.org/10.1063/1.1564352)." *Physics Today* 56, no. 2 (2003): 61-62.

@@ -18,9 +18,9 @@ Denbigh, Kenneth G. "Principles of Chemical Equilibrium." Chapter 4 in *Chemical
 
 Callister, William D. "Phase Diagrams." Chapter 9 in *Materials Science and Engineering: An Introduction*, 10th ed., 299-326. John Wiley & Sons, 2018. ISBN: 9781119405492.
 
-Chandler, David. "The Boltzmann Distribution." Chapter 3 in Introduction to Modern Statistical Mechanics, 2nd ed., 70-100. Oxford University Press.
+Chandler, David. "The Boltzmann Distribution." Chapter 3 in *Introduction to Modern Statistical Mechanics,* 2nd ed., 70-100. Oxford University Press, 1987. ISBN: 9780195042771.
 
-Clerc, F. J., and David J. Cleary. "Spinodal Decomposition as an Interesting Example of Pattern Formation." Physical Review E 51, no. 2 (1995): 1318-1326. \[PDF\] Available: [Clerc and Cleary - 1995 - Spinodal Decomposition as an Interesting Example o.pdf](https://chat.openai.com/insert_link_here)
+Clerc, F. J., and David J. Cleary. "Spinodal Decomposition as an Interesting Example of Pattern Formation." *Physical Review E* 51, no. 2 (1995): 1318-1326.
 
 ## Discussion Class Sessions
 

@@ -3,18 +3,18 @@ content_type: page
 description: This section includes lecture and lab dates, topics, readings, and due
   dates for the class.
 draft: true
-title: Schedule
+title: Calendar
 uid: 0cf92f71-39da-412d-b0d4-49a999b084a9
 ---
-{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Session
-{{< tdclose >}}{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 Title and Learning Goals
-{{< tdclose >}}{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 Text
-{{< tdclose >}}{{< tdopen >}}
-Key Dates
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
+Due Dates
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 
 Class 1
 
@@ -104,7 +104,7 @@ DeHoff: App. H
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Lab 1, section 1 (Virtual)
+Lab 1 (Virtual)
 {{< tdclose >}}{{< tdopen >}}
 
 Lab 1: Phase Diagrams for Materials Selection: Fe-C
@@ -311,7 +311,7 @@ Introduction to ideal (gas) mixtures
 - Balancing chemical reactions
 
 {{< tdclose >}}{{< tdopen >}}
-Denbigh: ch. 4.1 - 4.5
+Denbigh: ch. 4.1-4.5
 {{< tdclose >}}{{< tdopen >}}
 Pset 3
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -333,7 +333,7 @@ Reacting gas mixtures at equilibrium
 - van't Hoff equation
 
 {{< tdclose >}}{{< tdopen >}}
-Denbigh: ch. 4.1 - 4.9
+Denbigh: ch. 4.1-4.9
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -343,7 +343,7 @@ Denbigh: ch. 4.1 - 4.9
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
- 
+CI-M Presentation slide deck
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
@@ -356,7 +356,7 @@ Introduction to solutions, general case
 - Introduction to solution modeling
 
 {{< tdclose >}}{{< tdopen >}}
-Callister: ch. 9.1-9.6   
+Callister: ch. 9.-9.6    
 DeHoff: ch. 8.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 4
@@ -379,7 +379,7 @@ Partial molar properties
 - Calculating PMPs from solution models, incl. graphical solution
 
 {{< tdclose >}}{{< tdopen >}}
-DeHoff: ch. 8.1 - 8.4
+DeHoff: ch. 8.1-8.4
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -406,7 +406,7 @@ DeHoff: ch. 8
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Lab 2,  (Virtual)
+Lab 2 (Virtual)
 {{< tdclose >}}{{< tdopen >}}
 
 Lab 2: Thermal Energy Storage: Phase Change Materials
@@ -419,7 +419,7 @@ Lab 2: Thermal Energy Storage: Phase Change Materials
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
- 
+Annotated bibliography due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
@@ -501,8 +501,11 @@ Introduction to binary phase diagrams
 - Gibbs phase rule for multicomponent, heterogeneous systems
 
 {{< tdclose >}}{{< tdopen >}}
-Callister: ch. 9.7-9.8   
+
+Callister: ch. 9.7, 9.8  
+
 DeHoff: ch. 9, 10.1
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -512,7 +515,7 @@ DeHoff: ch. 9, 10.1
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
- 
+Literature Review partial draft due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
@@ -602,7 +605,7 @@ Pset 7
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
+25
 {{< tdclose >}}{{< tdopen >}}
 
 Building binary phase diagrams, part III
@@ -667,7 +670,7 @@ Lab 3: Computational Statistical Thermodynamics
 
 - Understand probability distributions and the Boltzmann distribution
 - Understand origin of temperature from microscopic degrees of freedom 
-- Understand fluctuations and thermalization   
+- Understand fluctuations and thermalization    
      
 
 {{< tdclose >}}{{< tdopen >}}
@@ -685,7 +688,11 @@ Boltzmann hypothesis
 - Setting up maximum entropy for isolated system
 
 {{< tdclose >}}{{< tdopen >}}
-DeHoff ch. 6, Chandler ch. 3
+
+DeHoff ch. 6,
+
+Chandler ch. 3
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -695,7 +702,7 @@ DeHoff ch. 6, Chandler ch. 3
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
- 
+Literature Review full draft (ungraded)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 29
 {{< tdclose >}}{{< tdopen >}}
@@ -707,7 +714,11 @@ Boltzmann distribution
 - Partition functions
 
 {{< tdclose >}}{{< tdopen >}}
-DeHoff ch. 6, Chandler ch. 3
+
+DeHoff ch. 6,
+
+Chandler ch. 3
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -725,7 +736,11 @@ n/a
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
+
 Pset 9
+
+Literature Review final draft due
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -739,9 +754,13 @@ Pset 9
 {{< tdclose >}}{{< tdopen >}}
 Intermediate phases and reactions
 {{< tdclose >}}{{< tdopen >}}
-DeHoff: ch. 10, 11.1-11.2   
-Callister: ch. 9.13   
+
+DeHoff: ch. 10, 11.1-11.2  
+
+Callister: ch. 9.13  
+
 Denbigh: ch. 4.8
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}

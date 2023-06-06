@@ -2,7 +2,7 @@
 content_type: page
 description: This section includes lecture and lab dates, topics, readings, and due
   dates for the class.
-draft: true
+draft: false
 title: Calendar
 uid: 0cf92f71-39da-412d-b0d4-49a999b084a9
 ---

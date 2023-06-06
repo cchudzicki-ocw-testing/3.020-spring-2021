@@ -7,15 +7,19 @@ leftnav:
   name: Instructor Insights
   url: /pages/instructor-insights
   weight: 20
+- identifier: 0cf92f71-39da-412d-b0d4-49a999b084a9
+  name: Calendar
+  url: /pages/schedule
+  weight: 30
 - identifier: 035cbabe-684f-4ae4-b662-1b832d177d01
   name: Lecture Notes
   url: /pages/lecture-notes-and-latex
-  weight: 30
+  weight: 40
 - identifier: ce30c4c2-5161-4110-b08d-7ce1d29e972a
   name: Readings
   url: /pages/readings
-  weight: 40
+  weight: 50
 - identifier: dbfdb685-4741-48dc-8191-45737a0f2658
   name: Assignments
   url: /pages/assignments
-  weight: 50
+  weight: 60

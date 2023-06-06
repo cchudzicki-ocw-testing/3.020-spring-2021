@@ -1,54 +1,27 @@
 ---
 content_type: page
-description: This page includes problem sets and assignments related to the communications
-  requirement of the course.
+description: This page includes problem set, recitation problems,  and assignments
+  related to the communications requirement of the course.
 draft: false
 title: Assignments
 uid: dbfdb685-4741-48dc-8191-45737a0f2658
 ---
-## Recitation Problems and Solutions
+Please refer to the calendar section to see where the problem sets and assignments fall in the class schedule. Solutions for the problem sets are not available on OCW. 
 
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-Problems
-{{< thclose >}}{{< thopen >}}
-Solutions Boards
-{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "bdbf8cc8-b26c-4963-bde9-ebdcf216af59" "Recitation 1 Problems (PDF)" %}}
-{{< tdclose >}}{{< tdopen >}}
-{{% resource_link "a5f5976d-bc6e-4413-b3e4-669630f73de2" "Recitation 1 Solutions (PDF)" %}}
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "e7fba565-0689-43ea-8297-a3564d187a64" "Recitation 2 Problems (PDF)" %}}
-{{< tdclose >}}{{< tdopen >}}
-{{% resource_link "3e221e18-d681-46e3-8605-78218d3b764d" "Recitation 2 Solutions (PDF)" %}}
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "741664e5-5548-4e9c-ab21-5ccba550660f" "Recitation 3 Problems (PDF)" %}}
-{{< tdclose >}}{{< tdopen >}}
-{{% resource_link "b9484a26-bf94-4b69-97a7-83f272a54895" "Recitation 3 Solutions (PDF)" %}}
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "9e24f1cf-4d34-4478-9e99-d11a6b399762" "Recitation 4 Problems (PDF)" %}}
-{{< tdclose >}}{{< tdopen >}}
-*Recitation 4 solutions not available*
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "faa6c750-736a-4777-b55f-e78447b1b07b" "Recitation 5 Problems (PDF)" %}}
-{{< tdclose >}}{{< tdopen >}}
-{{% resource_link "29a57dd3-792c-47da-bad0-c80de8bf6a1e" "Recitation 5 Solutions (PDF)" %}}
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "38bfb8aa-f0a5-45f2-b9fd-786abcd0e9a1" "Recitation 6 Problems (PDF)" %}}
-{{< tdclose >}}{{< tdopen >}}
-{{% resource_link "a0df1b39-c98d-430c-b041-22e8333a3072" "Recitation 6 Solutions (PDF)" %}}
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "90ad13ea-6431-4db0-899c-8ac8f784c90f" "Recitation 7 Problems (PDF)" %}}
-{{< tdclose >}}{{< tdopen >}}
-{{% resource_link "1951929d-1a85-491d-b1d6-be573a8ae806" "Recitation 7 Solutions (PDF)" %}}
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "ca8e4afd-19d1-4a0e-a348-bce701677803" "Recitation 8 Problems (PDF)" %}}
-{{< tdclose >}}{{< tdopen >}}
-{{% resource_link "2c53dde8-610c-460a-8ca4-b12f50667ae7" "Recitation 8 Solutions (PDF)" %}}
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "598db0a8-528d-4bba-a9de-ad484789c5f3" "Recitation 9 Problems (PDF)" %}}
-{{< tdclose >}}{{< tdopen >}}
-{{% resource_link "da070119-a212-4497-9867-b19ee9b7765e" "Recitation 9 Solutions (PDF)" %}}
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+## Problem Sets
+
+- {{% resource_link "09627ff7-ea49-465a-8091-ef2dab4a1b3a" "Problem Set 1 (PDF)" %}}
+- {{% resource_link "3221a0f7-7d3c-44d0-9d94-869fa01bf54e" "Problem Set 2 (PDF)" %}}
+- {{% resource_link "8dc02121-96f1-4f00-8f3f-09421c2f8fb1" "Problem Set 3 (PDF)" %}}
+- {{% resource_link "63232420-1bbe-4137-94cd-76a1a92e377a" "Problem Set 4 (PDF)" %}}
+- {{% resource_link "8501e192-4d52-4d0f-b953-27f5cf1491a7" "Problem Set 5 (PDF)" %}}
+- {{% resource_link "1f2e3ef8-7249-424a-814a-3dda85f259f0" "Problem Set 6 (PDF)" %}}
+- {{% resource_link "5a43f263-ed4f-43ee-9bd7-056a7a1f5ba0" "Problem Set 7 (PDF)" %}}
+- {{% resource_link "79e5b54a-369d-4dce-baa4-bd6cb58d078c" "Problem Set 8 (PDF)" %}}
+- {{% resource_link "e291a8d2-cd14-48a5-ba63-27b211e28488" "Problem Set 9 (PDF)" %}}
+- {{% resource_link "ae15b77a-9015-4989-9f92-c4576a23b67f" "Problem Set 10 (PDF)" %}}
+
+## Recitation Problems
 
 - {{% resource_link "bdbf8cc8-b26c-4963-bde9-ebdcf216af59" "Recitation 1 Problems (PDF)" %}}
 - {{% resource_link "e7fba565-0689-43ea-8297-a3564d187a64" "Recitation 2 Problems (PDF)" %}}
@@ -72,7 +45,7 @@ As a stand-alone genre, literature review articles are published to analyze the 
 
 Shorter, more targeted literature reviews are also generally required as a component of most research articles’ Background or Related Works sections.
 
-Your task is to write a **2,000 word literature review** that synthesizes recent research on an aspect of the field of thermodynamics (a more focused subtopic within the one you presented on).
+Your task is to write a **2,000-word literature review** that synthesizes recent research on an aspect of the field of thermodynamics (a more focused subtopic within the one you presented on).
 
 When we evaluate your final draft, we will be assessing how effectively you:
 
@@ -82,7 +55,7 @@ When we evaluate your final draft, we will be assessing how effectively you:
 
 ### Research Process
 
-To be successful, authors of literature reviews need to keep careful track of the novel contributions, claims, and open questions associated with their different sources, as well as observe and track trends, patterns and critical responses.
+To be successful, authors of literature reviews need to keep careful track of the novel contributions, claims, and open questions associated with their different sources, as well as observe and track trends, patterns, and critical responses.
 
 For this assignment, you will need to focus your research, select 7-12 peer-reviewed articles to include in an annotated bibliography, and ultimately engage in close synthesis of 5-10 of these articles in your final draft.
 

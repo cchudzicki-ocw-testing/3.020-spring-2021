@@ -90,7 +90,7 @@ The *laboratory & CI-M grades* will be determined by:
 - Exams are open-book; you have all resources at your disposal.
 - You may not discuss the exam with other students on the day of the exam.
 - Exams are written for a 60-minute time period; the total time period allowed will be 75 minutes, to allow 15 minutes to upload your work on the website.
-    - Exams in 3.020 are intended to be challenging.
+    - Exams are intended to be challenging.
     - We *strongly* encourage you to work strategically, and to stop work after 60 minutes, to avoid running short of time to upload.
 - You can take the exam at any time within a 24-hour window on the day of the exam; *i.e.*, the window to take the test begins at 12:00:01 am Eastern and ends at 11:59:59 pm Eastern on the test date.
 - Once you download the exam, your 75-minute period begins.

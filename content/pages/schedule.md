@@ -6,7 +6,7 @@ draft: false
 title: Calendar
 uid: 0cf92f71-39da-412d-b0d4-49a999b084a9
 ---
-The table below is intended to give independent learners an idea of the timings of readings, lectures, and assignments in order to plan a course of study.
+The table below is intended to give independent learners an idea of the timings of readings, lectures, and assignments in order to plan a course of study. Please refer to the {{% resource_link "ce30c4c2-5161-4110-b08d-7ce1d29e972a" "readings section" %}} for full text citations.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Session
@@ -33,7 +33,7 @@ Introduction to thermodynamics
 - CALPHAD and Thermocalc
 
 {{< tdclose >}}{{< tdopen >}}
-Fennie
+Ferrie: *Statistical Physics for Babies*
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -262,7 +262,7 @@ Introduction to solutions, general case
 - Introduction to solution modeling
 
 {{< tdclose >}}{{< tdopen >}}
-Callister: ch. 9.-9.6       
+Callister: ch. 9.-9.6        
 DeHoff: ch. 8.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 4
@@ -464,7 +464,7 @@ Lab 3: Computational Statistical Thermodynamics
 
 - Understand probability distributions and the Boltzmann distribution
 - Understand origin of temperature from microscopic degrees of freedom 
-- Understand fluctuations and thermalization       
+- Understand fluctuations and thermalization        
      
 
 {{< tdclose >}}{{< tdopen >}}

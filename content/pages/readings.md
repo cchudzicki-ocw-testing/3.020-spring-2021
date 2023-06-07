@@ -24,9 +24,9 @@ Clerc, Daryl G., and David A. Cleary. "Spinodal Decomposition as an Interesting 
 
 Ferrie, Chris. *Statistical Physics for Babies.* Sourcebooks, 2018. ISBN: 9781492670308.
 
-## Discussion Class Sessions
+## Readings for Discussion Sessions
 
-### Social & Personal #1
+### Discussion Class 1
 
 #### Required Reading
 
@@ -49,7 +49,7 @@ Kaiser, David. "[History: Shut up and calculate!](https://www.nature.com/article
 - "[The Nobel Prize in Chemistry 1918](https://www.nobelprize.org/prizes/chemistry/1918/summary/)." NobelPrize.org.
 - RadioLab. "[The Bad Show](https://radiolab.org/podcast/bad-show)" (Haber segment). RadioLab Podcast.
 
-### Social & Personal #2
+### Discussion Class 2
 
 #### Required Reading
 

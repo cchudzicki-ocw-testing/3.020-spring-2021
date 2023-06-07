@@ -6,6 +6,8 @@ draft: false
 title: Calendar
 uid: 0cf92f71-39da-412d-b0d4-49a999b084a9
 ---
+The table below is intended to give independent learners an idea of the timings of readings, lectures, and assignments in order to plan a course of study.
+
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Session
 {{< thclose >}}{{< thopen >}}
@@ -50,7 +52,7 @@ DeHoff: ch. 1, 2.1-2.2
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-3
+Class 3
 {{< tdclose >}}{{< tdopen >}}
 
 Process variables and the First Law
@@ -65,7 +67,7 @@ DeHoff: ch. 2, 3.1
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-4
+Class 4
 {{< tdclose >}}{{< tdopen >}}
 
 Heat engines and energy conversion efficiency
@@ -92,7 +94,7 @@ Understanding phase diagrams and their role in materials selection and design
 {{< tdclose >}}{{< tdopen >}}
 CI-M Presentation topic
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-5
+Class 5
 {{< tdclose >}}{{< tdopen >}}
 
 Second law and entropy maximization
@@ -106,7 +108,7 @@ DeHoff: ch. 3.2-3.5, 5.1-5.2
 {{< tdclose >}}{{< tdopen >}}
 Pset 1
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-6
+Class 6
 {{< tdclose >}}{{< tdopen >}}
 
 Thermodynamic potentials
@@ -120,7 +122,7 @@ DeHoff: ch. 4
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-7
+Class 7
 {{< tdclose >}}{{< tdopen >}}
 
 Ideal gas processes
@@ -134,7 +136,7 @@ DeHoff: ch. 4
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-8
+Class 8
 {{< tdclose >}}{{< tdopen >}}
 
 Mathematical implications of equilibrium and spontaneous processes
@@ -149,7 +151,7 @@ DeHoff: ch. 5
 {{< tdclose >}}{{< tdopen >}}
 Pset 2
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-9
+Class 9
 {{< tdclose >}}{{< tdopen >}}
 Case studies: Specific heats and phase transformations
 {{< tdclose >}}{{< tdopen >}}
@@ -177,7 +179,7 @@ Lab 1 write-up
 CI-M Presentation rough draft (ungraded)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-10
+Class 10
 {{< tdclose >}}{{< tdopen >}}
 
 Introduction to unary phase transformations
@@ -191,7 +193,7 @@ DeHoff: ch. 7.1-7.2
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-11
+Class 11
 {{< tdclose >}}{{< tdopen >}}
 
 Phase coexistence in unary systems
@@ -205,7 +207,7 @@ DeHoff: ch. 7
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-12
+Class 12
 {{< tdclose >}}{{< tdopen >}}
 Case studies: Saturation vapor pressure
 {{< tdclose >}}{{< tdopen >}}
@@ -213,7 +215,7 @@ Case studies: Saturation vapor pressure
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-13
+Class 13
 {{< tdclose >}}{{< tdopen >}}
 
 Introduction to ideal (gas) mixtures
@@ -227,7 +229,7 @@ Denbigh: ch. 4.1-4.5
 {{< tdclose >}}{{< tdopen >}}
 Pset 3
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-14
+Class 14
 {{< tdclose >}}{{< tdopen >}}
 
 Reacting gas mixtures at equilibrium
@@ -241,7 +243,7 @@ Denbigh: ch. 4.1-4.9
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
+n/a
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -249,7 +251,7 @@ Denbigh: ch. 4.1-4.9
 {{< tdclose >}}{{< tdopen >}}
 CI-M Presentation slide deck
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-15
+Class 15
 {{< tdclose >}}{{< tdopen >}}
 
 Introduction to solutions, general case
@@ -260,12 +262,12 @@ Introduction to solutions, general case
 - Introduction to solution modeling
 
 {{< tdclose >}}{{< tdopen >}}
-Callister: ch. 9.-9.6      
+Callister: ch. 9.-9.6       
 DeHoff: ch. 8.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 4
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-16
+Class 16
 {{< tdclose >}}{{< tdopen >}}
 
 Partial molar properties
@@ -279,7 +281,7 @@ DeHoff: ch. 8.1-8.4
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-17
+Class 17
 {{< tdclose >}}{{< tdopen >}}
 
 Solution models: Ideal, dilute, and regular
@@ -309,7 +311,7 @@ Lab 2: Thermal Energy Storage: Phase Change Materials
 {{< tdclose >}}{{< tdopen >}}
 Annotated bibliography due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-18
+Class 18
 {{< tdclose >}}{{< tdopen >}}
 Case study in reacting gas mixtures; introducing the Nernst equation
 {{< tdclose >}}{{< tdopen >}}
@@ -333,7 +335,7 @@ Social and Personal 1
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-19
+Class 19
 {{< tdclose >}}{{< tdopen >}}
 
 Regular solutions models and stability
@@ -347,7 +349,7 @@ DeHoff: ch. 8
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-20
+Class 20
 {{< tdclose >}}{{< tdopen >}}
 
 Introduction to binary phase diagrams
@@ -365,7 +367,7 @@ DeHoff: ch. 9, 10.1
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-21
+Class 21
 {{< tdclose >}}{{< tdopen >}}
 
 Phase coexistence and separation
@@ -379,7 +381,7 @@ DeHoff: ch. 9, 10.1
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-22
+Class 22
 {{< tdclose >}}{{< tdopen >}}
 
 Free energy-composition diagrams, general case
@@ -392,7 +394,7 @@ DeHoff: ch. 10.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 6
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-23
+Class 23
 {{< tdclose >}}{{< tdopen >}}
 
 Building binary phase diagrams, part I
@@ -406,7 +408,7 @@ DeHoff: ch. 10
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-24
+Class 24
 {{< tdclose >}}{{< tdopen >}}
 
 Building binary phase diagrams, part II
@@ -421,7 +423,7 @@ DeHoff: ch. 10
 {{< tdclose >}}{{< tdopen >}}
 Pset 7
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-25
+Class 25
 {{< tdclose >}}{{< tdopen >}}
 
 Building binary phase diagrams, part III
@@ -433,7 +435,7 @@ DeHoff: ch. 10
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-26
+Class 26
 {{< tdclose >}}{{< tdopen >}}
 CALPHAD: Case studies and Prof. Olson guest lecture
 {{< tdclose >}}{{< tdopen >}}
@@ -441,7 +443,7 @@ DeHoff: ch. 10
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-27
+Class 27
 {{< tdclose >}}{{< tdopen >}}
 
 Introduction to statistical thermodynamics
@@ -462,7 +464,7 @@ Lab 3: Computational Statistical Thermodynamics
 
 - Understand probability distributions and the Boltzmann distribution
 - Understand origin of temperature from microscopic degrees of freedom 
-- Understand fluctuations and thermalization      
+- Understand fluctuations and thermalization       
      
 
 {{< tdclose >}}{{< tdopen >}}
@@ -470,7 +472,7 @@ Lab 3: Computational Statistical Thermodynamics
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-28
+Class 28
 {{< tdclose >}}{{< tdopen >}}
 
 Boltzmann hypothesis
@@ -488,7 +490,7 @@ Chandler ch. 3
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
+n/a
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -496,7 +498,7 @@ Chandler ch. 3
 {{< tdclose >}}{{< tdopen >}}
 Literature Review full draft (ungraded)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-29
+Class 29
 {{< tdclose >}}{{< tdopen >}}
 
 Boltzmann distribution
@@ -526,7 +528,7 @@ Pset 9
 Literature Review final draft due
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-30
+Class 30
 {{< tdclose >}}{{< tdopen >}}
 Intermediate phases and reactions
 {{< tdclose >}}{{< tdopen >}}
@@ -540,7 +542,7 @@ Denbigh: ch. 4.8
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
+n/a
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -548,7 +550,7 @@ Denbigh: ch. 4.8
 {{< tdclose >}}{{< tdopen >}}
 Lab 3 write-up
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-31
+Class 31
 {{< tdclose >}}{{< tdopen >}}
 
 Reacting multi-phase systems
@@ -561,7 +563,7 @@ DeHoff: ch. 11
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-32
+Class 32
 {{< tdclose >}}{{< tdopen >}}
 Case study: Reacting, multi-component, multi-phase systems
 {{< tdclose >}}{{< tdopen >}}
@@ -571,15 +573,15 @@ Pset 10
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 SP2
 {{< tdclose >}}{{< tdopen >}}
-Social and Personal 2
+Social and personal class discussion 2
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-33
+Class 33
 {{< tdclose >}}{{< tdopen >}}
-Gameshow
+Gameshow (in-class exam review)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}

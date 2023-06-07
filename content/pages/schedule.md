@@ -11,7 +11,7 @@ The table below is intended to give independent learners an idea of the timings 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Session
 {{< thclose >}}{{< thopen >}}
-Title and Learning Goals
+Topics
 {{< thclose >}}{{< thopen >}}
 Text
 {{< thclose >}}{{< thopen >}}
@@ -85,7 +85,7 @@ DeHoff: App. H
 Lab 1 (Virtual)
 {{< tdclose >}}{{< tdopen >}}
 
-Lab 1: Phase Diagrams for Materials Selection: Fe-C
+Lab 1: Phase diagrams for materials selection: Fe-C
 
 Understanding phase diagrams and their role in materials selection and design
 
@@ -198,7 +198,7 @@ Class 11
 
 Phase coexistence in unary systems
 
-- Clausius-Clapeyron Equation
+- Clausius-Clapeyron equation
 - Vapor pressure
 - Gibbs phase rule
 
@@ -262,7 +262,7 @@ Introduction to solutions, general case
 - Introduction to solution modeling
 
 {{< tdclose >}}{{< tdopen >}}
-Callister: ch. 9.-9.6          
+Callister: ch. 9.-9.6           
 DeHoff: ch. 8.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 4
@@ -299,7 +299,7 @@ DeHoff: ch. 8
 Lab 2 (Virtual)
 {{< tdclose >}}{{< tdopen >}}
 
-Lab 2: Thermal Energy Storage: Phase Change Materials
+Lab 2: Thermal energy storage: Phase change materials
 
 - Understanding binary phase diagrams: solidus, liquidus, eutectics
 - Understand and quantify thermodynamic quantities, e.g., heat capacity, latent heat of fusion
@@ -464,7 +464,7 @@ Lab 3: Computational Statistical Thermodynamics
 
 - Understand probability distributions and the Boltzmann distribution
 - Understand origin of temperature from microscopic degrees of freedom 
-- Understand fluctuations and thermalization          
+- Understand fluctuations and thermalization           
      
 
 {{< tdclose >}}{{< tdopen >}}

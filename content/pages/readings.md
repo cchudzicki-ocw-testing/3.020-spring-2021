@@ -22,6 +22,8 @@ Chandler, David. "Statistical Mechanics." Chapter 3 in *Introduction to Modern S
 
 Clerc, Daryl G., and David A. Cleary. "Spinodal Decomposition as an Interesting Example of the Application of Several Thermodynamic Principles." *Journal of Chemical Education* 72, no. 2 (1995): 112-115.
 
+Ferrie, Chris. *Statistical Physics for Babies.* Sourcebooks, 2016/2018. ISBN: 9781492670308.
+
 ## Discussion Class Sessions
 
 ### Social & Personal #1

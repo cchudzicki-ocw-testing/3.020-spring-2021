@@ -44,16 +44,16 @@ Additional, required supplementary readings will be from the following textbooks
 
 ### Lectures
 
-- Lectures will be held live (*i.e*. synchronously) over Zoom
-- Attendance is encouraged, but it is not required and will not be graded
-- Lectures will be recorded for later viewing
+- Lectures will be held live (*i.e*. synchronously) over Zoom.
+- Attendance is encouraged, but it is not required and will not be graded.
+- Lectures will be recorded for later viewing.
 
 ### Recitations
 
-- Recitations will be held live over Zoom in two sessions
-- Attendance is encouraged, but it is not required and will not be graded
-- Recitations will not be recorded
-- Students will be assigned to recitation at the start of the semester; if you need to change your recitation time, please first confirm with the instructors
+- Recitations will be held live over Zoom in two sessions.
+- Attendance is encouraged, but it is not required and will not be graded.
+- Recitations will not be recorded.
+- Students will be assigned to recitation at the start of the semester; if you need to change your recitation time, please first confirm with the instructors.
 
 ### Laboratories
 
@@ -63,7 +63,7 @@ Additional, required supplementary readings will be from the following textbooks
 
 ### Communication-Intensive Activities
 
-3.020 satisfies MIT's [CI-M requirement](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects) through two communication-focused activities associated with the lab component. These activities will consist of (i) a virtual oral presentation on a technical topic related to the course subject material, aimed at a general audience, and (ii) a written review of an active research field, aimed at a technical audience. Details of these activities will be provided. Students will also participate in communication-focused instruction sessions during scheduled lab and recitation times.
+This course satisfies MIT's [CI-M requirement](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects) through two communication-focused activities associated with the lab component. These activities will consist of (i) a virtual oral presentation on a technical topic related to the course subject material, aimed at a general audience, and (ii) a written review of an active research field, aimed at a technical audience. Details of these activities will be provided. Students will also participate in communication-focused instruction sessions during scheduled lab and recitation times.
 
 ### Evaluation
 
@@ -82,17 +82,17 @@ The *laboratory & CI-M grades* will be determined by:
 
 ### Problem Sets
 
-- Problem sets will be due at 10 am Eastern on the due day
-- We encourage you to work in groups on the problem sets. However, you should write up your own problem-set solutions, and acknowledge the names of the students with whom you worked in your submission
+- Problem sets will be due at 10 am Eastern on the due date.
+- We encourage you to work in groups on the problem sets. However, you should write up your own problem-set solutions, and acknowledge the names of the students with whom you worked in your submission.
 
 ### Exams
 
-- Exams are open-book; you have all resources at your disposal
-- You may not discuss the exam with other students on the day of the exam
-- Exams are written for a 60-minute time period; the total time period allowed will be 75 minutes, to allow 15 minutes to upload your work on the website
-    - Exams in 3.020 are intended to be challenging
-    - We *strongly* encourage you to work strategically, and to stop work after 60 minutes, to avoid running short of time to upload
-- You can take the exam at any time within a 24-hour window on the day of the exam; *i.e.*, the window to take the test begins at 12:00:01 am Eastern and ends at 11:59:59 pm Eastern on the test date
-- Once you download the exam, your 75-minute period begins
+- Exams are open-book; you have all resources at your disposal.
+- You may not discuss the exam with other students on the day of the exam.
+- Exams are written for a 60-minute time period; the total time period allowed will be 75 minutes, to allow 15 minutes to upload your work on the website.
+    - Exams in 3.020 are intended to be challenging.
+    - We *strongly* encourage you to work strategically, and to stop work after 60 minutes, to avoid running short of time to upload.
+- You can take the exam at any time within a 24-hour window on the day of the exam; *i.e.*, the window to take the test begins at 12:00:01 am Eastern and ends at 11:59:59 pm Eastern on the test date.
+- Once you download the exam, your 75-minute period begins.
 
-*Please be aware that the information shared here was intended specifically for residential MIT students enrolled in the course and is included to provide insight into how the course was conducted during the pandemic. Note that OCW is not a distance education program, and we do not offer instructor interactions, grading, or certification of completion.*
+*Please note that this information was intended for residential MIT students enrolled in the course and is included to provide insight into how the course was conducted during the pandemic. OCW is not a distance education program, and we do not offer instructor interactions, grading, or certification of completion.*

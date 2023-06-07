@@ -6,7 +6,7 @@ draft: false
 title: Assignments
 uid: dbfdb685-4741-48dc-8191-45737a0f2658
 ---
-Please refer to the calendar section to see where the problem sets and assignments fall in the class schedule. Solutions for the problem sets are not available on OCW. 
+Please refer to the {{% resource_link "0cf92f71-39da-412d-b0d4-49a999b084a9" "calendar section" %}} to see where the problem sets and assignments fall in the class schedule. Solutions for the problem sets are not available on OCW. 
 
 ## Problem Sets
 

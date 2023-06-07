@@ -3,10 +3,10 @@ content_type: page
 description: This page includes the lecture notes in PDF and LaTeX format (included
   as ZIP archives to include image files).
 draft: false
-title: Lecture Notes and LaTeX
+title: Lecture Notes
 uid: 035cbabe-684f-4ae4-b662-1b832d177d01
 ---
-The lecture notes are available here in PDF (.pdf) and LaTeX (.tex) file formats. Some of the LaTeX files can be downloaded as ZIP archives (.zip) to includef the associated image files.
+The lecture notes are available here in PDF (.pdf) and LaTeX (.tex) file formats. Some of the LaTeX files can be downloaded as ZIP archives (.zip) to include the associated image files.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Lecture Notes: PDF Format

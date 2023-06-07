@@ -243,7 +243,7 @@ Denbigh: ch. 4.1-4.9
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-n/a
+ 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -262,7 +262,7 @@ Introduction to solutions, general case
 - Introduction to solution modeling
 
 {{< tdclose >}}{{< tdopen >}}
-Callister: ch. 9.-9.6         
+Callister: ch. 9.-9.6          
 DeHoff: ch. 8.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 4
@@ -327,7 +327,7 @@ Exam 2
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-SP1
+Class SP1
 {{< tdclose >}}{{< tdopen >}}
 Social and Personal 1
 {{< tdclose >}}{{< tdopen >}}
@@ -464,7 +464,7 @@ Lab 3: Computational Statistical Thermodynamics
 
 - Understand probability distributions and the Boltzmann distribution
 - Understand origin of temperature from microscopic degrees of freedom 
-- Understand fluctuations and thermalization         
+- Understand fluctuations and thermalization          
      
 
 {{< tdclose >}}{{< tdopen >}}
@@ -490,7 +490,7 @@ Chandler ch. 3
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-n/a
+ 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -516,7 +516,7 @@ Chandler ch. 3
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-n/a
+ 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -542,7 +542,7 @@ Denbigh: ch. 4.8
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-n/a
+ 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -571,7 +571,7 @@ Case study: Reacting, multi-component, multi-phase systems
 {{< tdclose >}}{{< tdopen >}}
 Pset 10
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-SP2
+Class SP2
 {{< tdclose >}}{{< tdopen >}}
 Social and personal class discussion 2
 {{< tdclose >}}{{< tdopen >}}

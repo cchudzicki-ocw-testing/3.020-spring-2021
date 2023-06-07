@@ -15,20 +15,16 @@ Labs: 2 sessions / week, 2 hours / session
 
 ### Prerequisites/Corequisites
 
-Chemistry ([GIR](https://registrar.mit.edu/registration-academics/academic-requirements/general-institute-requirements)) is a prerequisite. This requirement can be met by mastering one of the following courses:
+Chemistry ([GIR](https://registrar.mit.edu/registration-academics/academic-requirements/general-institute-requirements)) is a prerequisite. This requirement can be met with one of the following MIT courses:
 
 - [*3.091 Introduction to Solid-State Chemistry*](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/)  or [3.091SC](https://draft.ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/)\*
 - [*5.111SC Principles of Chemical Science*](https://draft.ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)
-- [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/) 
-    
-    or [5.111SC](https://draft.ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)\*
+- [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/) or [5.111SC](https://draft.ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)\*
 - [*5.112 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005/)
-
-3.091SC, 3.091, 5.111SC, 5.111, and 5.112.
 
 [*18.03 Differential Equations*](https://ocw.mit.edu/search/?q=18.03) or *18.032* is a *corequisite*, meaning students can take *3.020* and *18.03* (or *18.032*) at the same time.
 
-- "SC" denotes an [*OCW Scholar*](ocw.mit.edu/course-lists/scholar-courses/) version of a course. OCW Scholar courses contain complete multi-media resources designed for independent learners, and are organized in logical sequence.
+- "SC" denotes an [*OCW Scholar*](ocw.mit.edu/course-lists/scholar-courses/) version of a course. OCW Scholar courses contain complete multi-media resources designed for independent learners and are organized sequentially.
 
 ### Course Description
 
@@ -62,7 +58,7 @@ Additional, required supplementary readings will be from the following textbooks
 ### Laboratories
 
 - Laboratories will be held in both in-person and live virtual formats.
-- Students will participate in three two-hour lab experiments during the term, with mandatory attendance (either virtual or in-person). Students will be individually assigned to specific lab groups and corresponding meeting times. Students who need to change their lab group may consult with the lab instructor.
+- Students will participate in three two-hour lab experiments during the term, with mandatory attendance (either virtual or in-person). Students will be individually assigned to specific lab groups and corresponding meeting times.
 - Virtual laboratory sections will be recorded and made available for registered students.
 
 ### Communication-Intensive Activities
@@ -99,4 +95,4 @@ The *laboratory & CI-M grades* will be determined by:
 - You can take the exam at any time within a 24-hour window on the day of the exam; *i.e.*, the window to take the test begins at 12:00:01 am Eastern and ends at 11:59:59 pm Eastern on the test date
 - Once you download the exam, your 75-minute period begins
 
-*Please be aware that the information shared here was specifically intended for residential MIT students enrolled in the course and is included to provide insight into how the course was conducted during the pandemic. Note that OCW is not a distance education program, and we do not offer instructor interactions, grading, or certification of completion.*
+*Please be aware that the information shared here was intended specifically for residential MIT students enrolled in the course and is included to provide insight into how the course was conducted during the pandemic. Note that OCW is not a distance education program, and we do not offer instructor interactions, grading, or certification of completion.*

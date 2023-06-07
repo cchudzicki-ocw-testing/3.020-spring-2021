@@ -35,14 +35,6 @@ Fennie
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Class 2
 {{< tdclose >}}{{< tdopen >}}
 
@@ -58,14 +50,6 @@ DeHoff: ch. 1, 2.1-2.2
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
 
@@ -78,14 +62,6 @@ Process variables and the First Law
 
 {{< tdclose >}}{{< tdopen >}}
 DeHoff: ch. 2, 3.1
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -130,14 +106,6 @@ DeHoff: ch. 3.2-3.5, 5.1-5.2
 {{< tdclose >}}{{< tdopen >}}
 Pset 1
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
 
@@ -149,14 +117,6 @@ Thermodynamic potentials
 
 {{< tdclose >}}{{< tdopen >}}
 DeHoff: ch. 4
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -174,14 +134,6 @@ DeHoff: ch. 4
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
 
@@ -196,14 +148,6 @@ Mathematical implications of equilibrium and spontaneous processes
 DeHoff: ch. 5
 {{< tdclose >}}{{< tdopen >}}
 Pset 2
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
@@ -247,14 +191,6 @@ DeHoff: ch. 7.1-7.2
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
 
@@ -269,33 +205,9 @@ DeHoff: ch. 7
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
 Case studies: Saturation vapor pressure
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -314,14 +226,6 @@ Introduction to ideal (gas) mixtures
 Denbigh: ch. 4.1-4.5
 {{< tdclose >}}{{< tdopen >}}
 Pset 3
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
@@ -356,18 +260,10 @@ Introduction to solutions, general case
 - Introduction to solution modeling
 
 {{< tdclose >}}{{< tdopen >}}
-Callister: ch. 9.-9.6    
+Callister: ch. 9.-9.6     
 DeHoff: ch. 8.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 4
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
@@ -380,14 +276,6 @@ Partial molar properties
 
 {{< tdclose >}}{{< tdopen >}}
 DeHoff: ch. 8.1-8.4
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -429,23 +317,7 @@ Case study in reacting gas mixtures; introducing the Nernst equation
 {{< tdclose >}}{{< tdopen >}}
 Pset 5
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 EXAM 2
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -456,14 +328,6 @@ EXAM 2
 SP1
 {{< tdclose >}}{{< tdopen >}}
 Social and Personal 1
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -480,14 +344,6 @@ Regular solutions models and stability
 
 {{< tdclose >}}{{< tdopen >}}
 DeHoff: ch. 8
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -509,14 +365,6 @@ DeHoff: ch. 9, 10.1
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
-Literature Review partial draft due
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
 
@@ -531,14 +379,6 @@ DeHoff: ch. 9, 10.1
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
-Lab 2 write-up
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
 
@@ -552,14 +392,6 @@ DeHoff: ch. 10.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 6
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
 
@@ -571,14 +403,6 @@ Building binary phase diagrams, part I
 
 {{< tdclose >}}{{< tdopen >}}
 DeHoff: ch. 10
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -597,14 +421,6 @@ DeHoff: ch. 10
 {{< tdclose >}}{{< tdopen >}}
 Pset 7
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
 
@@ -617,35 +433,11 @@ DeHoff: ch. 10
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
 CALPHAD: Case studies and Prof. Olson guest lecture
 {{< tdclose >}}{{< tdopen >}}
 DeHoff: ch. 10
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -663,14 +455,14 @@ DeHoff ch. 6
 {{< tdclose >}}{{< tdopen >}}
 Pset 8
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Lab 3  (1Virtual)
+Lab 3  (Virtual)
 {{< tdclose >}}{{< tdopen >}}
 
 Lab 3: Computational Statistical Thermodynamics
 
 - Understand probability distributions and the Boltzmann distribution
 - Understand origin of temperature from microscopic degrees of freedom 
-- Understand fluctuations and thermalization    
+- Understand fluctuations and thermalization     
      
 
 {{< tdclose >}}{{< tdopen >}}
@@ -722,14 +514,6 @@ Chandler ch. 3
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 n/a
 {{< tdclose >}}{{< tdopen >}}
  
@@ -741,14 +525,6 @@ Pset 9
 
 Literature Review final draft due
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 30
 {{< tdclose >}}{{< tdopen >}}
@@ -772,30 +548,6 @@ Denbigh: ch. 4.8
 {{< tdclose >}}{{< tdopen >}}
 Lab 3 write-up
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 31
 {{< tdclose >}}{{< tdopen >}}
 
@@ -809,22 +561,6 @@ DeHoff: ch. 11
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 32
 {{< tdclose >}}{{< tdopen >}}
 Case study: Reacting, multi-component, multi-phase systems
@@ -832,30 +568,6 @@ Case study: Reacting, multi-component, multi-phase systems
  
 {{< tdclose >}}{{< tdopen >}}
 Pset 10
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 SP2
 {{< tdclose >}}{{< tdopen >}}
@@ -865,17 +577,17 @@ Social and Personal 2
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
+33
 {{< tdclose >}}{{< tdopen >}}
- 
+GAMESHOW
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-33
+ 
 {{< tdclose >}}{{< tdopen >}}
-GAMESHOW
+ 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}

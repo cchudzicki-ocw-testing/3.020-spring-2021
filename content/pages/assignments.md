@@ -103,31 +103,21 @@ When we evaluate your presentation, we will be assessing how effectively you:
 
 As you consider selecting a course-related presentation topic, keep in mind that the topic you select for this assignment will also carry over to the next CI-M assignment, the literature review. Feel free to select one of the topics listed below, or propose your own topic by sending a short email to your instructors.
 
-{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Presentation topics
-{{< tdclose >}}{{< tdopen >}}
-Possible literature review topics
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Usefulness of eutectic systems
-{{< tdclose >}}{{< tdopen >}}
-Deep eutectic solvents in drug delivery systems
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Thermodynamics of phase transformations
-{{< tdclose >}}{{< tdopen >}}
-Phase change energy storage
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Role and importance of computational materials design
-{{< tdclose >}}{{< tdopen >}}
-Computational microstructure characterization and reconstruction
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Phase diagrams for materials selection and processing
-{{< tdclose >}}{{< tdopen >}}
-Extraction and processing of rare earth metals
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Sustainable materials selection
-{{< tdclose >}}{{< tdopen >}}
-Materials for solar energy capture and conversion
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+Presentation Topics:
+
+- Usefulness of eutectic systems
+- Thermodynamics of phase transformations
+- Role and importance of computational materials design
+- Phase diagrams for materials selection and processing
+- Sustainable materials selection
+
+Possible Literature Review Topics:
+
+- Deep eutectic solvents in drug delivery systems
+- Phase change energy storage
+- Computational microstructure characterization and reconstruction
+- Extraction and processing of rare earth metals
+- Materials for solar energy capture and conversion
 
 In order to approach and present your chosen topic, you will need to perform independent research. Ideally, the research process for your presentation will become useful background as you focus your research for the literature review.
 

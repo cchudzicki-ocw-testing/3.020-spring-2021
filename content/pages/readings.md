@@ -1,7 +1,7 @@
 ---
 content_type: page
-description: This page outlines the readings for the class including citations and
-  links where possible.
+description: This page gives details about the readings for the class with full citations
+  and links where possible.
 draft: false
 title: Readings
 uid: ce30c4c2-5161-4110-b08d-7ce1d29e972a

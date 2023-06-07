@@ -260,7 +260,7 @@ Introduction to solutions, general case
 - Introduction to solution modeling
 
 {{< tdclose >}}{{< tdopen >}}
-Callister: ch. 9.-9.6     
+Callister: ch. 9.-9.6      
 DeHoff: ch. 8.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 4
@@ -317,7 +317,7 @@ Case study in reacting gas mixtures; introducing the Nernst equation
 {{< tdclose >}}{{< tdopen >}}
 Pset 5
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-EXAM 2
+Exam 2
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -462,7 +462,7 @@ Lab 3: Computational Statistical Thermodynamics
 
 - Understand probability distributions and the Boltzmann distribution
 - Understand origin of temperature from microscopic degrees of freedom 
-- Understand fluctuations and thermalization     
+- Understand fluctuations and thermalization      
      
 
 {{< tdclose >}}{{< tdopen >}}
@@ -579,13 +579,13 @@ Social and Personal 2
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 33
 {{< tdclose >}}{{< tdopen >}}
-GAMESHOW
+Gameshow
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
+Final Exam
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}

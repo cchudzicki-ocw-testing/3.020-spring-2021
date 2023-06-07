@@ -24,7 +24,7 @@ Chemistry ([GIR](https://registrar.mit.edu/registration-academics/academic-requi
 
 [*18.03 Differential Equations*](https://ocw.mit.edu/search/?q=18.03) or *18.032* is a *corequisite*, meaning students can take *3.020* and *18.03* (or *18.032*) at the same time.
 
-- "SC" denotes an [*OCW Scholar*](ocw.mit.edu/course-lists/scholar-courses/) version of a course. OCW Scholar courses contain complete multi-media resources designed for independent learners and are organized sequentially.
+\*"SC" denotes an [*OCW Scholar*](ocw.mit.edu/course-lists/scholar-courses/) version of a course. OCW Scholar courses contain complete multi-media resources designed for independent learners and are organized sequentially.
 
 ### Course Description
 

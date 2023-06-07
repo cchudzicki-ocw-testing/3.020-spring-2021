@@ -125,7 +125,7 @@ In order to approach and present your chosen topic, you will need to perform ind
 
 In a rhetorically strategic and coherent structure, your presentation should include the following elements: 
 
-1. Motivation: why should the audience care about this research? What are the real-world applications and stakes? What gaps or frontiers in research are scientists trying to fill or extend?
+1. Motivation: Why should the audience care about this research? What are the real-world applications and stakes? What gaps or frontiers in research are scientists trying to fill or extend?
 2. Context: What does the audience need to know to understand key terms and concepts?
 3. Methods: How do methods help scientists accomplish goals? How did the field develop these methods?
 4. Results and Open Questions: What is the current state of the art? What are the open questions in the field?

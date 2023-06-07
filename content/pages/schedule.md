@@ -262,7 +262,7 @@ Introduction to solutions, general case
 - Introduction to solution modeling
 
 {{< tdclose >}}{{< tdopen >}}
-Callister: ch. 9.-9.6        
+Callister: ch. 9.-9.6         
 DeHoff: ch. 8.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 4
@@ -331,7 +331,7 @@ SP1
 {{< tdclose >}}{{< tdopen >}}
 Social and Personal 1
 {{< tdclose >}}{{< tdopen >}}
- 
+*See* {{% resource_link "ce30c4c2-5161-4110-b08d-7ce1d29e972a" "*readings section*" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -464,7 +464,7 @@ Lab 3: Computational Statistical Thermodynamics
 
 - Understand probability distributions and the Boltzmann distribution
 - Understand origin of temperature from microscopic degrees of freedom 
-- Understand fluctuations and thermalization        
+- Understand fluctuations and thermalization         
      
 
 {{< tdclose >}}{{< tdopen >}}
@@ -575,7 +575,7 @@ SP2
 {{< tdclose >}}{{< tdopen >}}
 Social and personal class discussion 2
 {{< tdclose >}}{{< tdopen >}}
- 
+*See* {{% resource_link "ce30c4c2-5161-4110-b08d-7ce1d29e972a" "*readings section*" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}

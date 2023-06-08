@@ -262,7 +262,7 @@ Introduction to solutions, general case
 - Introduction to solution modeling
 
 {{< tdclose >}}{{< tdopen >}}
-Callister: ch. 9.-9.6             
+Callister: ch. 9.-9.6              
 DeHoff: ch. 8.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 4
@@ -464,7 +464,7 @@ Lab 3: Computational Statistical Thermodynamics
 
 - Understand probability distributions and the Boltzmann distribution
 - Understand origin of temperature from microscopic degrees of freedom 
-- Understand fluctuations and thermalization             
+- Understand fluctuations and thermalization              
      
 
 {{< tdclose >}}{{< tdopen >}}
@@ -596,4 +596,4 @@ Final Exam
 \-
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-\*Novel for the course this year, two class sessions were devoted to discussing the social and personal aspects of working in the field of materials science. The intention was to have students explore their individual purpose and motivation for pursuing careers in science and engineering, and to have them think about the impact of their work on the wider world.
+\**Novel for the course this year, two class sessions were devoted to discussing the social and personal aspects of working in the field of materials science. The intention was to have students explore their individual purpose and motivation for pursuing careers in science and engineering, and to have them think about the impact of their work on the wider world.*

@@ -6,7 +6,7 @@ draft: false
 title: Calendar
 uid: 0cf92f71-39da-412d-b0d4-49a999b084a9
 ---
-The table below is intended to give independent learners an idea of the timings of readings, lectures, and assignments in order to plan a course of study. Please refer to the {{% resource_link "ce30c4c2-5161-4110-b08d-7ce1d29e972a" "readings section" %}} for full text citations.
+The schedule below is intended to give independent learners an idea of the timings of readings, lectures, and assignments in order to plan a course of study. Please refer to the {{% resource_link "ce30c4c2-5161-4110-b08d-7ce1d29e972a" "readings section" %}} for full text citations.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Session
@@ -84,11 +84,7 @@ DeHoff: App. H
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Lab 1 (Virtual)
 {{< tdclose >}}{{< tdopen >}}
-
-Lab 1: Phase diagrams for materials selection: Fe-C
-
-Understanding phase diagrams and their role in materials selection and design
-
+Phase diagrams for materials selection: Fe-C: Understanding phase diagrams and their role in materials selection and design
 {{< tdclose >}}{{< tdopen >}}
 \-
 {{< tdclose >}}{{< tdopen >}}
@@ -262,7 +258,7 @@ Introduction to solutions, general case
 - Introduction to solution modeling
 
 {{< tdclose >}}{{< tdopen >}}
-Callister: ch. 9.-9.6              
+Callister: ch. 9.-9.6               
 DeHoff: ch. 8.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 4
@@ -299,7 +295,7 @@ DeHoff: ch. 8
 Lab 2 (Virtual)
 {{< tdclose >}}{{< tdopen >}}
 
-Lab 2: Thermal energy storage: Phase change materials
+Thermal energy storage: Phase change materials
 
 - Understanding binary phase diagrams: solidus, liquidus, eutectics
 - Understand and quantify thermodynamic quantities, e.g., heat capacity, latent heat of fusion
@@ -460,11 +456,11 @@ Pset 8
 Lab 3  (Virtual)
 {{< tdclose >}}{{< tdopen >}}
 
-Lab 3: Computational Statistical Thermodynamics
+Computational statistical thermodynamics
 
 - Understand probability distributions and the Boltzmann distribution
 - Understand origin of temperature from microscopic degrees of freedom 
-- Understand fluctuations and thermalization              
+- Understand fluctuations and thermalization               
      
 
 {{< tdclose >}}{{< tdopen >}}

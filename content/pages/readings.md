@@ -24,7 +24,9 @@ Clerc, Daryl G., and David A. Cleary. "Spinodal Decomposition as an Interesting 
 
 Ferrie, Chris. *Statistical Physics for Babies.* Sourcebooks, 2018. ISBN: 9781492670308.
 
-## Readings for Discussion Sessions
+## Readings for Class Discussion Sessions
+
+*Novel for the course this year, two class sessions were devoted to discussing the social and personal aspects of working in the field of materials science. The intention was to have students explore their individual purpose and motivation for pursuing careers in science and engineering, and to have them think about the impact of their work on the wider world.*
 
 ### Discussion Class 1
 

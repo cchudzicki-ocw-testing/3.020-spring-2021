@@ -3,7 +3,7 @@ content_type: page
 description: This page has a description of the communications (CI-M) assignments
   for the class.
 draft: false
-title: Communications Assignments
+title: Communications (CI-M) Assignments
 uid: 53cf7636-95de-41f7-a878-a508b10b34d5
 ---
 Please refer to the [calendar section](https://draft.ocw.mit.edu/courses/3-020-thermodynamics-of-materials-spring-2021/pages/schedule/) to see where the assignment due dates fall in the class schedule. These assignments are part of the [CI-M](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects) aspect of the course.

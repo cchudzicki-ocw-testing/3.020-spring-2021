@@ -23,3 +23,18 @@ leftnav:
   name: Assignments
   url: /pages/assignments
   weight: 60
+- identifier: ad3d4fed-58b7-4c9a-a135-c2defc01152e
+  name: Problem Sets
+  parent: dbfdb685-4741-48dc-8191-45737a0f2658
+  url: /lists/problem-sets
+  weight: 10
+- identifier: ff25030f-356d-4d8a-a1a9-a3f3fbdb7b3e
+  name: Recitation Problems
+  parent: dbfdb685-4741-48dc-8191-45737a0f2658
+  url: /lists/recitation-problems
+  weight: 20
+- identifier: 53cf7636-95de-41f7-a878-a508b10b34d5
+  name: Communications Assignments
+  parent: dbfdb685-4741-48dc-8191-45737a0f2658
+  url: /pages/communications-assignments
+  weight: 30

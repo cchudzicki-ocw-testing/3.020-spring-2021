@@ -8,6 +8,8 @@ uid: ce30c4c2-5161-4110-b08d-7ce1d29e972a
 ---
 ## Lecture Readings
 
+See the {{% resource_link "0cf92f71-39da-412d-b0d4-49a999b084a9" "calendar section" %}} for the schedule of required readings.
+
 ### Textbook
 
 DeHoff, Robert. *Thermodynamics in Materials Science*. CRC Press, 2006. ISBN: 9781420005851. \[[Google Books Preview](https://www.google.com/books/edition/_/uV_LBQAAQBAJ?hl=en&gbpv=1&pg=PP1)\]

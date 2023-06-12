@@ -161,14 +161,6 @@ Exam 1
 {{< tdclose >}}{{< tdopen >}}
 \-
 {{< tdclose >}}{{< tdopen >}}
-\-
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-\-
-{{< tdclose >}}{{< tdopen >}}
-\-
-{{< tdclose >}}{{< tdopen >}}
-\-
-{{< tdclose >}}{{< tdopen >}}
 
 Lab 1 write-up
 
@@ -258,7 +250,7 @@ Introduction to solutions, general case
 - Introduction to solution modeling
 
 {{< tdclose >}}{{< tdopen >}}
-Callister: ch. 9.-9.6               
+Callister: ch. 9.-9.6                
 DeHoff: ch. 8.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 4
@@ -460,7 +452,7 @@ Computational statistical thermodynamics
 
 - Understand probability distributions and the Boltzmann distribution
 - Understand origin of temperature from microscopic degrees of freedom 
-- Understand fluctuations and thermalization               
+- Understand fluctuations and thermalization                
      
 
 {{< tdclose >}}{{< tdopen >}}

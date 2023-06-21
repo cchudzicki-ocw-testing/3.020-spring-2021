@@ -16,11 +16,11 @@ uid: 16b3df22-4d7c-4fa3-84b7-a1ba0317fe37
 video_files:
   archive_url: ''
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/fTNBcqb_ZeE/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: fTNBcqb_ZeE
 ---

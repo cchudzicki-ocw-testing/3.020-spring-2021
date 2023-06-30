@@ -15,9 +15,9 @@ title: mit3_020s21_lecture_21_1080p.mp4
 uid: 3895f331-eb8a-42b5-84c6-e84ccd7abd8b
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/3-020-thermodynamics-of-materials-spring-2021/1bgnBRUCdZ4iTNWZbkl7cEzMOMJLrirk9_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/2GeecRByQhc/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/3-020-thermodynamics-of-materials-spring-2021/1bgnBRUCdZ4iTNWZbkl7cEzMOMJLrirk9_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''

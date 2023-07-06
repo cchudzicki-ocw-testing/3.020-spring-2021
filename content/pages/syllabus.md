@@ -24,6 +24,8 @@ Chemistry ([GIR](https://registrar.mit.edu/registration-academics/academic-requi
 
 [*18.03 Differential Equations*](https://ocw.mit.edu/search/?q=18.03) or *18.032* is a *corequisite*, meaning students can take *3.020* and *18.03* (or *18.032*) at the same time.
 
+Go to {{% resource_link "6f1dfa42-bfa7-425a-b4e4-c5adec5e525d" "the instructor insights section" %}} for more details about how this course fits into the MIT Curriculum.
+
 \*"SC" denotes an [*OCW Scholar*](ocw.mit.edu/course-lists/scholar-courses/) version of a course. OCW Scholar courses contain complete multi-media resources designed for independent learners and are organized sequentially.
 
 ### Course Description
@@ -95,4 +97,4 @@ The *laboratory & CI-M grades* will be determined by:
 - You can take the exam at any time within a 24-hour window on the day of the exam; *i.e.*, the window to take the test begins at 12:00:01 am Eastern and ends at 11:59:59 pm Eastern on the test date.
 - Once you download the exam, your 75-minute period begins.
 
-*Please note that this information was intended for residential MIT students enrolled in the course and is included to provide insight into how the course was conducted during the pandemic. OCW is not a distance education program, and we do not offer instructor interactions, grading, or certification of completion.*
+*Please note that this information was intended for students enrolled in the residential MIT course and is included to provide insight into how the course was conducted during the pandemic. OCW is not a distance education program, and we do not offer instructor interactions, grading, or certification of completion.*

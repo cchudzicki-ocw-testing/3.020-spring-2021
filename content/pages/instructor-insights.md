@@ -46,14 +46,16 @@ Devoting two lectures to these topics was intended as a signal of how important 
 
 Students in 3.020 should have previously taken one of the following courses to fulfil MIT's General Institute Requirement (GIR) in Chemistry:
 
-- [*3.091 Introduction to Solid-State Chemistry*](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/) 
-- [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/)
+- [*3.091 Introduction to Solid-State Chemistry*](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/)  or [3.091SC](https://draft.ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/)\*
+- [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/) or [5.111SC](https://draft.ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)\*
 - [*5.112 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005/)
 
 One of the following courses should be taken as a corequisite:
 
 - [*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
 - *18.032 Differential Equations*
+
+\*"SC" denotes an [*OCW Scholar*](ocw.mit.edu/course-lists/scholar-courses/) version of a course.
 
 ### Requirements Satisfied
 
@@ -74,7 +76,7 @@ One of the following courses should be taken as a corequisite:
 
 35% of the grade is based on laboratory & communication components of the course:
 
-- 20% Lab reports: short virtual student-recorded videos summarizing key lab results, to be submitted     
+- 20% Lab reports: short virtual student-recorded videos summarizing key lab results, to be submitted      
     for each of the three lab experiments
 - 35% Oral presentation
 - 45% Written review article

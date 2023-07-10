@@ -63,7 +63,7 @@ One of the following courses should be taken as a corequisite:
 
 ### Offered
 
-Every spring semester
+- Every spring semester
 
 ## Assessment and Grading
 
@@ -74,7 +74,7 @@ Every spring semester
 
 35% of the grade is based on laboratory & communication components of the course:
 
-- 20% Lab reports: short virtual student-recorded videos summarizing key lab results, to be submitted    
+- 20% Lab reports: short virtual student-recorded videos summarizing key lab results, to be submitted     
     for each of the three lab experiments
 - 35% Oral presentation
 - 45% Written review article
@@ -83,23 +83,23 @@ Every spring semester
 
 ### Enrollment
 
-31 students.
+- 31 students.
 
 ### Breakdown by Year
 
-Mostly second-year undergraduates.
+- Mostly second-year undergraduates.
 
 ### Breakdown by Major
 
-About 2/3 materials science and engineering students, 1/3 other majors or undecided.
+- About 2/3 materials science and engineering students, 1/3 other majors or undecided.
 
 ## How Student Time Was Spent
 
-During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
+- During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
 ### Lectures
 
-Met twice per week for 1.5 hours per session; 26 sessions total; mandatory attendance.
+- Met twice per week for 1.5 hours per session; 26 sessions total; mandatory attendance.
 
 ### Recitations
 
@@ -108,7 +108,7 @@ Met twice per week for 1.5 hours per session; 26 sessions total; mandatory atten
 
 ### Labs
 
-Met once per week for 2 hours per session.
+- Met once per week for 2 hours per session.
 
 ### Out of Class
 

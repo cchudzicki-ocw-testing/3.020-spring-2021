@@ -18,7 +18,6 @@ Labs: 2 sessions / week, 2 hours / session
 Chemistry ([GIR](https://registrar.mit.edu/registration-academics/academic-requirements/general-institute-requirements)) is a prerequisite. This requirement can be met with one of the following MIT courses:
 
 - [*3.091 Introduction to Solid-State Chemistry*](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/)  or [3.091SC](https://draft.ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/)\*
-- [*5.111SC Principles of Chemical Science*](https://draft.ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)
 - [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/) or [5.111SC](https://draft.ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)\*
 - [*5.112 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005/)
 

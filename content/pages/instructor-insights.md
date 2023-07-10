@@ -76,7 +76,7 @@ One of the following courses should be taken as a corequisite:
 
 35% of the grade is based on laboratory & communication components of the course:
 
-- 20% Lab reports: short virtual student-recorded videos summarizing key lab results, to be submitted      
+- 20% Lab reports: short virtual student-recorded videos summarizing key lab results, to be submitted       
     for each of the three lab experiments
 - 35% Oral presentation
 - 45% Written review article
@@ -114,4 +114,4 @@ One of the following courses should be taken as a corequisite:
 
 ### Out of Class
 
-Outside of class, students completed weekly problem sets, produced lab report videos and written review articles, prepared for oral presentations, and studied for exams.
+- Outside of class, students completed weekly problem sets, produced lab report videos and written review articles, prepared for oral presentations, and studied for exams.

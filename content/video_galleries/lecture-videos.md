@@ -43,4 +43,4 @@ videos:
   - 8149357d-9a4b-4a29-81bf-134ba12a86ea
   website: 3020-thermodynamics-of-materials
 ---
-Note that Lectures 12, 33, and the discussion class sessions were not recorded, and Lecture 25 did not meet.
+Note that Lectures 12, 25, 33, and the discussion class sessions were not recorded.

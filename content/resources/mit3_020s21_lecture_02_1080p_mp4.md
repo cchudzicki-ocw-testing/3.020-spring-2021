@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: '2: Scope and Use of Thermodynamics'
+title: 'Lecture 2: Scope and Use of Thermodynamics'
 uid: ec696646-d8e8-4748-beec-b8718d37c89c
 video_files:
   archive_url: ''

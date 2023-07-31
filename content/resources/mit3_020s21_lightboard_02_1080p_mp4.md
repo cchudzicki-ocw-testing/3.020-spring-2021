@@ -22,7 +22,7 @@ video_files:
   video_transcript_file: /courses/3-020-thermodynamics-of-materials-spring-2021/19jq_tYOkUDVYu2V9u-J44zbP_dOW_LRq_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
+  video_tags: iron,  phase diagram, Gibbs
   youtube_description: "MIT 3.020 Thermodynamics of Materials, Spring 2021\nInstructor:\
     \ Rafael Jaramillo\n\nView the complete course: https://ocw.mit.edu/sites/3020-thermodynamics-of-materials/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61g-yRbJz4ghFPJLiok1HxX\n\

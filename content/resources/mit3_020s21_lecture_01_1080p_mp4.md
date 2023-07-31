@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: mit3_020s21_lecture_01_1080p.mp4
+title: 'Lecture 1: Introduction to Thermodynamics'
 uid: b72da8c1-fc01-48d3-84ce-6aecdce3872a
 video_files:
   archive_url: ''
@@ -35,3 +35,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: NNSqvh8asTM
 ---
+This first class session introduces entropy and spontaneous processes, molecular interactions, and enthalpy, as well as the scope and use of thermodynamics.

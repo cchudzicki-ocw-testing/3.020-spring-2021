@@ -29,10 +29,12 @@ video_metadata:
     \nThis video introduces phase diagrams of unary, binary, and ternary systems,\
     \ and demonstrates the Ouzo effect.\n\nLicense: Creative Commons BY-NC-SA\nMore\
     \ information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
-    Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
-    \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
-    \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\
-    \ may be removed. More details at https://ocw.mit.edu/comments."
+    Support OCW at http://ow.ly/a1If50zVRlQ\n\nConcerto A 4 Violini No 2 (Telemann)\n\
+    Exzel Music Publishing (freemusicpublicdomain.com)\nLicensed under Creative Commons:\
+    \ By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\n\nWe encourage\
+    \ constructive comments and discussion on OCW\u2019s YouTube and other social\
+    \ media channels. Personal attacks, hate speech, trolling, and inappropriate comments\
+    \ are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: r7CbPYxkQeU
 ---
 This video introduces phase diagrams of unary, binary, and ternary systems, and demonstrates the Ouzo effect.

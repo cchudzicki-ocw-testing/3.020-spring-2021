@@ -25,7 +25,7 @@ Chemistry ([GIR](https://registrar.mit.edu/registration-academics/academic-requi
 
 Go to {{% resource_link "6f1dfa42-bfa7-425a-b4e4-c5adec5e525d" "the instructor insights section" %}} for more details about how this course fits into the MIT Curriculum.
 
-\*"SC" denotes an [*OCW Scholar*](ocw.mit.edu/course-lists/scholar-courses/) version of a course. OCW Scholar courses contain complete multi-media resources designed for independent learners and are organized sequentially.
+\*"SC" denotes an [*OCW Scholar*](https://ocw.mit.edu/course-lists/scholar-courses/) version of a course. OCW Scholar courses contain complete multi-media resources designed for independent learners and are organized sequentially.
 
 ### Course Description
 

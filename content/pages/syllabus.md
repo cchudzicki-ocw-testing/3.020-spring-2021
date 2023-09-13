@@ -96,4 +96,4 @@ The *laboratory & CI-M grades* will be determined by:
 - You can take the exam at any time within a 24-hour window on the day of the exam; *i.e.*, the window to take the test begins at 12:00:01 am Eastern and ends at 11:59:59 pm Eastern on the test date.
 - Once you download the exam, your 75-minute period begins.
 
-*Please note that this information was intended for students enrolled in the residential MIT course and is included to provide insight into how the course was conducted during the pandemic. OCW is not a distance education program, and we do not offer instructor interactions, grading, or certification of completion.*
+*Please note that this information was intended for students enrolled in the residential MIT course and is included to provide insight into how the course was conducted. OCW is not a distance education program, and we do not offer instructor interactions, grading, or certification of completion.*

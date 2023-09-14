@@ -10,11 +10,11 @@ Please refer to the [calendar section](https://draft.ocw.mit.edu/courses/3-020-t
 
 ## **Literature Review Assignment Guidelines**
 
-### **DESCRIPTION**
+### **Description**
 
 Over the course of this assignment, you will write and revise a short literature review.
 
-As a stand-alone genre, literature review articles are published to analyze the state of a specialized field, by synthesizing recent research and identifying patterns, trends, and remaining open questions.  You can think of them as a public service researchers perform for their community, as it is then easier for the rest of us to digest recent research quickly, and to identify the particular articles that would be most relevant for our own work.  Literature reviews are not entirely selfless acts, however, because they are also an opportunity for researchers to shape future research agendas by evaluating and critiquing the current trends. For your review, you’ll focus on objectively summarizing research trends, but you may include any evaluative reflections, if relevant, in your conclusion.
+As a stand-alone genre, literature review articles are published to analyze the state of a specialized field, by synthesizing recent research and identifying patterns, trends, and remaining open questions. You can think of them as a public service researchers perform for their community, as it is then easier for the rest of us to digest recent research quickly, and to identify the particular articles that would be most relevant for our own work. Literature reviews are not entirely selfless acts, however, because they are also an opportunity for researchers to shape future research agendas by evaluating and critiquing the current trends. For your review, you’ll focus on objectively summarizing research trends, but you may include any evaluative reflections, if relevant, in your conclusion.
 
 Shorter, more targeted literature reviews are also generally required as a component of most research articles’ Background or Related Works sections.
 
@@ -38,25 +38,25 @@ We recommend using tools like a [literature review chart](https://docs.google.co
 
 Ultimately, your literature review should present the following sections coherently:
 
-#### **1\. INTRODUCTION**
+#### **1\. Introduction**
 
 Motivates the reader’s interest by establishing the significance and challenges of your topic, identifies the purpose of providing a summary overview of recent research, and provides a conceptual framework that organizes the material logically, highlighting important concerns and how they relate to each other.
 
-#### **2\. BODY PARAGRAPHS**
+#### **2\. Body Paragraphs**
 
-Arranged in a logical sequence, body paragraphs should identify the major points of intersection between sources and be structured to closely synthesize information and clearly link specific examples and evidence to the various concepts at play, aiding the reader in understanding their significance. More broadly, body paragraphs must define central concepts clearly (noting how different articles use them, if relevant), provide an accurate representation of the different articles, and a comprehensive summary of the main issues.
+Arranged in a logical sequence, body paragraphs should identify the major points of intersection between sources and be structured to closely synthesize information and clearly link specific examples and evidence to the various concepts at play, aiding the reader in understanding their significance. More broadly, body paragraphs must define central concepts clearly (noting how different articles use them, if relevant), provide an accurate representation of the different articles, and give a comprehensive summary of the main issues.
 
-####  **3. CONCLUSION**
+#### **3\. Conclusion**
 
-Briefly reframes your review’s main points, focusing on key intersections between sources and open questions or directions for the field. 
+This briefly reframes your review’s main points, focusing on key intersections between sources and open questions or directions for the field. 
 
-####  **4. FIGURES + REFERENCES**
+#### **4\. Figures + References**
 
 Include at least 1-2 figures and/or tables (titled, labeled, captioned, and referenced in the text) to illustrate complex concepts. Cite all source material with an in-text reference and in a full reference page (use [Nature’s](https://paperpile.com/s/nature-citation-style/) style guide).
 
 ## **Presentation Assignment Guidelines**
 
-### **DESCRIPTION** 
+### **Description**
 
 Over the course of this assignment, you will prepare a 10-minute presentation on a thermodynamics-related topic of your choice (e.g. phase diagrams for thermal storage materials, the role and importance of computational materials design) for a general audience. The context and motivation for your presentation is a (hypothetical) Museum of Science speaker series showcasing student research topics at MIT. The series is aimed at strengthening public support and understanding of science. 
 
@@ -103,4 +103,4 @@ In a rhetorically strategic and coherent structure, your presentation should inc
 3. Methods: How do methods help scientists accomplish goals? How did the field develop these methods?
 4. Results and Open Questions: What is the current state of the art? What are the open questions in the field?
 5. Conclusion: What main ideas from the talk do you want to highlight and leave your audience remembering?
-6. Figures + References: How can visuals and graphics clarify, enhance or support each of these goals? Remember to cite all references.
+6. Figures + References: How can visuals and graphics clarify, enhance, or support each of these goals? Remember to cite all references.

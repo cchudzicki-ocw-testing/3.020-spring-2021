@@ -7,11 +7,11 @@ uid: 9c277a00-1f00-4039-9537-81d8cf2ea78b
 ---
 ### Course Meeting Times
 
-Lectures: 3 sessions / week, 1 hour / session
+Lectures: 3 sessions / week, 1 hour / session (attendance encouraged)
 
 Recitations: 1 session / week, 1 hour / session (optional)
 
-Labs: 2 sessions / week, 2 hours / session
+Labs: 3 sessions, 2 hours / session
 
 ### Prerequisites/Corequisites
 
@@ -68,22 +68,22 @@ This course satisfies MIT's [CI-M requirement](https://registrar.mit.edu/registr
 
 ### Evaluation
 
-The contributions to the final grade will be: 65% from lecture, 35% from laboratory & CI-M components
+The contributions to the final grade will be 65% from lecture and 35% from laboratory and CI-M components.
 
-The *lecture* grade will be determined by the following:
+The lecture grade will be determined by the following:
 
 - 50% problem sets: 10 problem sets, with equal weighting
 - 50% exams: 3 exams, of equal length and weighting (including the final)
 
-The *laboratory & CI-M grades* will be determined by:
+The laboratory and CI-M *grades* will be determined by the following:
 
-- 20% lab reports: Short virtual student-recorded videos summarizing key lab results will be submitted for each lab experiment.
+- 20% lab reports: Short virtual student-recorded videos summarizing key lab results, to be submitted for each lab experiment
 - 35% Oral presentation
 - 45% Written review article
 
 ### Problem Sets
 
-- Problem sets will be due at 10 am Eastern on the due date.
+- Problem sets will be due at 10 a.m. Eastern on the due date.
 - We encourage you to work in groups on the problem sets. However, you should write up your own problem-set solutions, and acknowledge the names of the students with whom you worked in your submission.
 
 ### Exams

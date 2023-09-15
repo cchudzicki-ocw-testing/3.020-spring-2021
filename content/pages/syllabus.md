@@ -25,7 +25,7 @@ Chemistry ([GIR](https://registrar.mit.edu/registration-academics/academic-requi
 
 Go to {{% resource_link "6f1dfa42-bfa7-425a-b4e4-c5adec5e525d" "the instructor insights section" %}} for more details about how this course fits into the MIT Curriculum.
 
-\*"SC" denotes an [*OCW Scholar*](https://ocw.mit.edu/course-lists/scholar-courses/) version of a course. OCW Scholar courses contain complete multi-media resources designed for independent learners and are organized sequentially.
+\*"SC" denotes an [OCW Scholar](https://ocw.mit.edu/course-lists/scholar-courses/) version of a course. OCW Scholar courses contain complete multi-media resources designed for independent learners and are organized sequentially.
 
 ### Course Description
 
@@ -39,9 +39,9 @@ Robert DeHoff, *Thermodynamics in Materials Science*, 2nd edition, Taylor & Fran
 
 Additional, required supplementary readings will be from the following textbooks:
 
-- Chapter 4: "Equilibria of Reactions Involving Gases." Kenneth Denbigh, *The Principles of Chemical Equilibrium*, 4th edition, Cambridge, 1981. ISBN: 978-0521281508.
-- Chapter 9: "Phase Diagrams." William D Callister, Jr., and David G. Rethwisch, *Materials Science and Engineering*, 8th edition, Wiley, 2009. ISBN: 9780470419977.
-- Chapter 3: "Statistical Mechanics." David Chandler, *Introduction to Modern Statistical Mechanics*, Oxford, 1987. ISBN: 978-0195042771.
+- Chapter 4: "Equilibria of Reactions Involving Gases." Kenneth Denbigh, *The Principles of Chemical Equilibrium*, 4th edition, Cambridge, 1981. ISBN: 9780521281508.
+- Chapter 9: "Phase Diagrams." William D. Callister, Jr., and David G. Rethwisch, *Materials Science and Engineering*, 8th edition, Wiley, 2009. ISBN: 9780470419977.
+- Chapter 3: "Statistical Mechanics." David Chandler, *Introduction to Modern Statistical Mechanics*, Oxford, 1987. ISBN: 9780195042771.
 
 ### Lectures
 
